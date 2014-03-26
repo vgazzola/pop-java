@@ -1,0 +1,6 @@
+<map id="popjava.base.POPObject.isDaemon" name="popjava.base.POPObject.isDaemon">
+<area shape="rect" id="node3" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a78d5dd41336979e5347bbc250f10f13b" title="Get information about the deamon mode of this broker." alt="" coords="256,5,440,49"/>
+<area shape="rect" id="node5" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#aa4e0311b2503d6182b2a2f474f7897e2" title="Get information about the state of this borker." alt="" coords="488,5,683,49"/>
+<area shape="rect" id="node7" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a0239d325af8816f3f698c13442e6f058" title="Main loop of this broker." alt="" coords="731,5,936,49"/>
+<area shape="rect" id="node9" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af11c36af52875f3bfb77fd0390f0f6d1" title="Entry point for the Broker." alt="" coords="985,13,1191,41"/>
+</map>

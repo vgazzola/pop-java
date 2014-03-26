@@ -1,0 +1,4 @@
+<map id="popjava.broker.RequestQueue.peek" name="popjava.broker.RequestQueue.peek">
+<area shape="rect" id="node3" href="$d6/d98/classpopjava_1_1broker_1_1_request_queue.html#a0d00bcb1901071ed7f1a22e1f513b31f" title="Check if there is request to peek." alt="" coords="319,5,604,33"/>
+<area shape="rect" id="node5" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#ade963add297f8e02709766ff070df050" title="Set the current status of the request." alt="" coords="359,55,564,99"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="popjava.system.POPSystem.initialize" name="popjava.system.POPSystem.initialize">
+<area shape="rect" id="node3" href="$d6/da6/classpopjava_1_1util_1_1_util.html#a60570044afcaeb06b4e721f8c99ace1c" title="Remove a string in an array list." alt="" coords="387,5,571,49"/>
+<area shape="rect" id="node5" href="$d9/dce/classpopjava_1_1system_1_1_p_o_p_system.html#ac053eb06fb18914649aef5164ae17e4a" title="Get the host of the local node." alt="" coords="361,71,596,115"/>
+<area shape="rect" id="node7" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#a29465e155b3c616cec9db409b2aa02de" title="Add an access point by a formatted string." alt="" coords="364,138,593,182"/>
+<area shape="rect" id="node13" href="$d2/dd2/classpopjava_1_1system_1_1_p_o_p_java_configuration.html#ab8d555c046d18a72cd7cdb863a519aab" title="Retrieve the POP&#45;C++ AppCoreService executable location." alt="" coords="325,205,632,249"/>
+<area shape="rect" id="node15" href="$d2/dd2/classpopjava_1_1system_1_1_p_o_p_java_configuration.html#aef43411e7538c68a969de5366eb0335d" title="Retrieve the POP&#45;Java installation location." alt="" coords="680,263,987,307"/>
+<area shape="rect" id="node17" href="$d9/dce/classpopjava_1_1system_1_1_p_o_p_system.html#a5c3037396826b80fe58bbbb900261895" title="Initialize the CodeMgr by reading the object map and register all code location." alt="" coords="361,322,596,366"/>
+<area shape="rect" id="node9" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a770d4f1f2332f5fc5c4dd149fbb3856d" title="Create an access point from a formatted string." alt="" coords="732,138,935,182"/>
+<area shape="rect" id="node11" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a4249544673f62780bc764e539e32f4f8" title="Create a new AccessPoint." alt="" coords="1036,138,1239,182"/>
+<area shape="rect" id="node20" href="$d3/d6f/classpopjava_1_1system_1_1_x_m_l_worker.html#af8cb85ccf24671dbc09d113890946d89" title="Validate an XML file with an XML schema." alt="" coords="723,330,944,374"/>
+</map>

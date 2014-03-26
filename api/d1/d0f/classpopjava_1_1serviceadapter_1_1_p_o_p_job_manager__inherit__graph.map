@@ -1,0 +1,6 @@
+<map id="popjava.serviceadapter.POPJobManager" name="popjava.serviceadapter.POPJobManager">
+<area shape="rect" id="node2" href="$d2/ddb/classpopjava_1_1serviceadapter_1_1_p_o_p_job_service.html" title="Partial POP&#45;Java class implementation to be used with the POP&#45;C++ runtime This class declares the nec..." alt="" coords="36,878,268,1007"/>
+<area shape="rect" id="node4" href="$da/d1e/classpopjava_1_1serviceadapter_1_1_p_o_p_service_base.html" title="Partial POP&#45;Java class implementation to be used with the POP&#45;C++ runtime This class declares the nec..." alt="" coords="5,683,299,829"/>
+<area shape="rect" id="node6" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html" title="This class is the base class of all POP&#45;Java parallel classes." alt="" coords="48,153,256,634"/>
+<area shape="rect" id="node8" href="$d8/d56/interfacepopjava_1_1dataswaper_1_1_i_p_o_p_base.html" title="This interface declare the needed method for the serialization and the deserialization of an object..." alt="" coords="40,6,264,103"/>
+</map>

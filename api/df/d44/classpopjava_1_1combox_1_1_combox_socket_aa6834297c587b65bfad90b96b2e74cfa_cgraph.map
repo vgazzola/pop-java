@@ -1,0 +1,7 @@
+<map id="popjava.combox.ComboxSocket.connect" name="popjava.combox.ComboxSocket.connect">
+<area shape="rect" id="node3" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#affc4a88557eab7f820bf805816bd9d75" title="Get the number of different access points." alt="" coords="351,5,580,49"/>
+<area shape="rect" id="node5" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#addb62e672e40faf645c2991c728f23ca" title="Get the access point at specified index." alt="" coords="351,71,580,115"/>
+<area shape="rect" id="node7" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a6103a966c35262c57a16b715b05b88d3" title="Get the protocol of this access point." alt="" coords="364,138,567,182"/>
+<area shape="rect" id="node9" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#ad47a17005cf2a7748ebc6dd6893c2015" title="Get the host of this access point." alt="" coords="364,205,567,249"/>
+<area shape="rect" id="node11" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a0df36fb97bf671263f801998a794511e" title="Get the port of this access point." alt="" coords="364,271,567,315"/>
+</map>

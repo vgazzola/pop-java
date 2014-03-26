@@ -1,0 +1,5 @@
+<map id="popjava.buffer.BufferFactory" name="popjava.buffer.BufferFactory">
+<area shape="rect" id="node3" href="$d0/d90/classpopjava_1_1buffer_1_1_buffer_factory_plugin.html" title="This class defined the interface for new buffer factory plug&#45;in." alt="" coords="5,153,219,266"/>
+<area shape="rect" id="node5" href="$d8/d00/classpopjava_1_1buffer_1_1_buffer_raw_factory.html" title="Implementation of the abstract BufferFactory for the RAW encoding." alt="" coords="243,153,435,266"/>
+<area shape="rect" id="node7" href="$d6/d68/classpopjava_1_1buffer_1_1_buffer_x_d_r_factory.html" title="Implementation of the abstract BufferFactory for the RAW encoding." alt="" coords="459,161,701,258"/>
+</map>

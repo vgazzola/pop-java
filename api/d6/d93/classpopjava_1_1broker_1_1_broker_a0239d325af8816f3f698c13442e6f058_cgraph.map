@@ -1,0 +1,16 @@
+<map id="popjava.broker.Broker.treatRequests" name="popjava.broker.Broker.treatRequests">
+<area shape="rect" id="node3" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#ae7928c1fc8058dac82f35c08caf6c166" title="Set state information of this broker." alt="" coords="268,71,460,115"/>
+<area shape="rect" id="node5" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#aa4e0311b2503d6182b2a2f474f7897e2" title="Get information about the state of this borker." alt="" coords="267,138,461,182"/>
+<area shape="rect" id="node11" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af2527e3d1418e0c812b42d83a02b8153" title="This method is responsible to handle the broker&#45;side semantics for a request." alt="" coords="259,205,469,249"/>
+<area shape="rect" id="node32" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#ac2f968609c2ff8241cd206fa54d999d5" title="Write a new debug information line in the file." alt="" coords="260,271,468,315"/>
+<area shape="rect" id="node7" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a78d5dd41336979e5347bbc250f10f13b" title="Get information about the deamon mode of this broker." alt="" coords="535,5,719,49"/>
+<area shape="rect" id="node9" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a4d123c54ea4e145103ca317d614d10ba" title="Specify if the parallel object is running like a deamon." alt="" coords="787,5,989,49"/>
+<area shape="rect" id="node13" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#af1a58223739cd41ff6ae30220da008e2" title="Set an associated broker." alt="" coords="524,138,729,182"/>
+<area shape="rect" id="node15" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#ade963add297f8e02709766ff070df050" title="Set the current status of the request." alt="" coords="785,322,991,366"/>
+<area shape="rect" id="node17" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a05239247c7d77c868022919b54b19821" title="Returns true if this request is a mutex request, false otherwise." alt="" coords="529,71,724,115"/>
+<area shape="rect" id="node21" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#afb914afb6e6c1b11758c5adfa9affb4b" title="This method is responsible to dispatch the request between invokeConstructor and invokeMethod." alt="" coords="519,271,735,299"/>
+<area shape="rect" id="node27" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#a97c514ee6237e0212dc9cd2452524b94" title="Writes an exception to the same log as writeDebugInfo." alt="" coords="523,373,731,417"/>
+<area shape="rect" id="node29" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a974c55ed952133f923edc490e06efe2d" title="Returns true if this request is a concurrent request, false otherwise." alt="" coords="529,205,724,249"/>
+<area shape="rect" id="node19" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a34e3da3c97f6be3d3e137c9f34340be7" title="Get the semantic of the current request." alt="" coords="784,189,992,233"/>
+<area shape="rect" id="node25" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a0e4b0aaecd518aec50d42d6ba468a062" title="Remove the request from the request queue after invocation." alt="" coords="785,255,991,299"/>
+</map>

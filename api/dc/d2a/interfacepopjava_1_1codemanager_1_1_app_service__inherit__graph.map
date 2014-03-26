@@ -1,0 +1,4 @@
+<map id="popjava.codemanager.AppService" name="popjava.codemanager.AppService">
+<area shape="rect" id="node3" href="$d9/dd5/classpopjava_1_1codemanager_1_1_p_o_p_java_app_service.html" title="{popjava.codemanager.POPJava\lAppService\n||+ POPJavaAppService()\l+ registerCode()\l+ queryCode()\l+ getLocalJavaFileLocation()\l+ getPlatform()\l+ getPOPCAppID()\l}" alt="" coords="5,225,237,402"/>
+<area shape="rect" id="node5" href="$d5/db5/classpopjava_1_1serviceadapter_1_1_p_o_p_app_service.html" title="Partial POP&#45;Java class implementation to be used with the POP&#45;C++ runtime This class declares the nec..." alt="" coords="261,217,496,410"/>
+</map>

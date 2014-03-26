@@ -1,0 +1,7 @@
+<map id="popjava.PJProxyFactory.newActiveFromBuffer" name="popjava.PJProxyFactory.newActiveFromBuffer">
+<area shape="rect" id="node3" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a5364b8ef45941b2c473a9622e85d2e3e" title="Deserialize the object from the buffer." alt="" coords="261,5,525,33"/>
+<area shape="rect" id="node5" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#ac2f968609c2ff8241cd206fa54d999d5" title="Write a new debug information line in the file." alt="" coords="289,55,497,99"/>
+<area shape="rect" id="node7" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a28531ddb7ee1a55efad3bf5466689636" title="Throw an exception when the object binding is not a success." alt="" coords="268,122,519,166"/>
+<area shape="rect" id="node11" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#a97c514ee6237e0212dc9cd2452524b94" title="Writes an exception to the same log as writeDebugInfo." alt="" coords="289,189,497,233"/>
+<area shape="rect" id="node9" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a2a44b5ea147ac6a2fa3421e69e0580ee" title="Create a new empty POPException." alt="" coords="575,122,788,166"/>
+</map>

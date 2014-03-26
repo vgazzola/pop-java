@@ -1,0 +1,7 @@
+<map id="popjava.PJMethodHandler" name="popjava.PJMethodHandler">
+<area shape="rect" id="node2" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html" title="Interface side of a POP&#45;Java parallel object." alt="" coords="237,715,475,1085"/>
+<area shape="rect" id="node4" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html" title="This class represents the object description for a parallel object." alt="" coords="111,169,313,602"/>
+<area shape="rect" id="node15" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html" title="This class is the base class of all POP&#45;Java parallel classes." alt="" coords="5,667,213,1133"/>
+<area shape="rect" id="node6" href="$d8/d56/interfacepopjava_1_1dataswaper_1_1_i_p_o_p_base.html" title="This interface declare the needed method for the serialization and the deserialization of an object..." alt="" coords="89,6,313,103"/>
+<area shape="rect" id="node8" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html" title="This class represents multiple access to the broker&#45;side parallel object." alt="" coords="337,257,567,514"/>
+</map>

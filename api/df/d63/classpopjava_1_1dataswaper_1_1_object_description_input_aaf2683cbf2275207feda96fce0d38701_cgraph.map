@@ -1,0 +1,13 @@
+<map id="popjava.dataswaper.ObjectDescriptionInput.merge" name="popjava.dataswaper.ObjectDescriptionInput.merge">
+<area shape="rect" id="node3" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#af8c7e21b843733189dab8227a6f7c4b4" title="Get the OD power value." alt="" coords="276,5,479,49"/>
+<area shape="rect" id="node5" href="$df/d63/classpopjava_1_1dataswaper_1_1_object_description_input.html#abeee76bcf955001755456e6dabdeeac8" title="Set the power OD by ODElement." alt="" coords="275,71,480,115"/>
+<area shape="rect" id="node7" href="$df/d63/classpopjava_1_1dataswaper_1_1_object_description_input.html#a6802c6d838b68e6feacd717030d42829" title="Set the bandwidth OD by ODELement." alt="" coords="263,138,492,182"/>
+<area shape="rect" id="node9" href="$df/d63/classpopjava_1_1dataswaper_1_1_object_description_input.html#a6d4702d3b4902c8847d8dd81e2f4b2f2" title="Set the memory OD by ODElement." alt="" coords="271,205,484,249"/>
+<area shape="rect" id="node11" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#ac0d01d64ec56bd28627e4dae76c299c6" title="Get the OD walltime value." alt="" coords="276,271,479,315"/>
+<area shape="rect" id="node13" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a2c7521185a924e3552fb1b2a9ecef60e" title="Get the OD encoding value." alt="" coords="276,338,479,382"/>
+<area shape="rect" id="node15" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a6686b41e06d3910b0c2d2d8999fe332c" title="Get the OD protocol value." alt="" coords="276,405,479,449"/>
+<area shape="rect" id="node17" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a0cdc6a6181b1340358ed0bb0a742db7a" title="Get he OD platform value." alt="" coords="276,471,479,515"/>
+<area shape="rect" id="node19" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a2e088de834539fde1ddd928e69eb41ce" title="Get the OD hostname value." alt="" coords="276,538,479,582"/>
+<area shape="rect" id="node21" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a805de95799e89e40b9c68e6e99954ef0" title="Get the OD JobUrl value." alt="" coords="276,605,479,649"/>
+<area shape="rect" id="node23" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a608814b66aab677e48062babd135427c" title="Get the OD code file value." alt="" coords="276,671,479,715"/>
+</map>

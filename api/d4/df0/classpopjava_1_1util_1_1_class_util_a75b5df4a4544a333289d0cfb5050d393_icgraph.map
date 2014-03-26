@@ -1,0 +1,16 @@
+<map id="popjava.util.ClassUtil.getMethodSign" name="popjava.util.ClassUtil.getMethodSign">
+<area shape="rect" id="node3" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#aa8a89af872dddbc448da11ee7c60fe16" title="Retrieve a method by its informations." alt="" coords="263,71,476,115"/>
+<area shape="rect" id="node15" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a779bcba36ea9df29e3e2584f0c59bf76" title="Set an invocation semantic to a specific method that is overloaded." alt="" coords="261,138,477,182"/>
+<area shape="rect" id="node17" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#ae2e9c4fe03dcebb5f65feea799a3ece0" title="Initialize the method identifier for all the methods in a class." alt="" coords="245,271,493,315"/>
+<area shape="rect" id="node23" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a8f1524da0e753d90743c7ba8819d8f6a" title="Initialize the constructor identifier and the semantic." alt="" coords="245,338,493,382"/>
+<area shape="rect" id="node26" href="$d4/df0/classpopjava_1_1util_1_1_class_util.html#af706c93cceeaa1c3547e830346db70c8" title="Retrieve a specific constructor in the given class." alt="" coords="275,205,464,249"/>
+<area shape="rect" id="node29" href="$d4/df0/classpopjava_1_1util_1_1_class_util.html#afc3265daa6b3d40e738ae58c2ccf7db2" title="Retrieve a specific method in the given class." alt="" coords="275,405,464,449"/>
+<area shape="rect" id="node31" href="$d4/df0/classpopjava_1_1util_1_1_class_util.html#a214b937cc0c9ba092dff864182a04bfa" title="Get the signature of a constructor." alt="" coords="275,471,464,515"/>
+<area shape="rect" id="node5" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a92a2eafece50683a48f3684913405fc7" title="Retrieve the invocation semantic of a specific method." alt="" coords="559,5,772,49"/>
+<area shape="rect" id="node7" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#ab4eee56a19eb226fe8e9a1f47dcda13d" title="Set an invocation semantic to a specific method." alt="" coords="557,71,773,115"/>
+<area shape="rect" id="node9" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a3c35f0855508878a5f2800132b4c81f3" title="Construct a parallel object." alt="" coords="553,197,777,241"/>
+<area shape="rect" id="node13" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#aafb25fe0b03b9939e4155a147231f1f2" title="Invoke a method on an object." alt="" coords="544,138,787,166"/>
+<area shape="rect" id="node11" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#a848c6ac9d0900c3966a3680fbcd9ecc2" title="Create a new object from specific class and object description." alt="" coords="864,197,1072,241"/>
+<area shape="rect" id="node19" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a61420ea2c4afdf01d77e89b6ba023e62" title="Initialize the method identifiers of a POPObject." alt="" coords="541,305,789,349"/>
+<area shape="rect" id="node21" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a62a11e83189111dabd8ea66b551f404a" title="Creates a new instance of POPObject." alt="" coords="837,313,1099,341"/>
+</map>

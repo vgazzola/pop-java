@@ -1,0 +1,7 @@
+<map id="popjava.PJProxyFactory.newPOPObject" name="popjava.PJProxyFactory.newPOPObject">
+<area shape="rect" id="node3" href="$d0/d31/classpopjava_1_1_pop_java.html#a6cf9ea02dc61f69fc7b89f76cad86973" title="Static method used to create a new parallel object by passing an object description." alt="" coords="263,42,468,70"/>
+<area shape="rect" id="node5" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a89c5777bfa97b8a06890a50ffa8ab521" title="Allocate resource for the associated parallel object." alt="" coords="519,13,812,41"/>
+<area shape="rect" id="node11" href="$d9/dce/classpopjava_1_1system_1_1_p_o_p_system.html#afc31769b23cf7fb861ccc16aaef5f993" title="Start the application scope services." alt="" coords="537,63,793,107"/>
+<area shape="rect" id="node7" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a3c35f0855508878a5f2800132b4c81f3" title="Construct a parallel object." alt="" coords="863,5,1087,49"/>
+<area shape="rect" id="node9" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#a848c6ac9d0900c3966a3680fbcd9ecc2" title="Create a new object from specific class and object description." alt="" coords="1136,5,1344,49"/>
+</map>

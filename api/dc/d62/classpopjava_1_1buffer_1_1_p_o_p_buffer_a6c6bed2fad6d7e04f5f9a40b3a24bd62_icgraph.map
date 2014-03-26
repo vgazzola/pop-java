@@ -1,0 +1,12 @@
+<map id="popjava.buffer.POPBuffer.getBoolean" name="popjava.buffer.POPBuffer.getBoolean">
+<area shape="rect" id="node3" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#afa9fda8795fc9266fba23db6ed6e9f35" title="Deserialize the object description from the buffer." alt="" coords="297,5,500,49"/>
+<area shape="rect" id="node7" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#ae07f6f515f1751af0ad3d7fa0fee6068" title="Deserialize the object from the buffer received from the network." alt="" coords="284,71,513,115"/>
+<area shape="rect" id="node10" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a3f1d675b0b72ec640bb728e7953263a0" title="Retrieve an object from the buffer." alt="" coords="291,138,507,182"/>
+<area shape="rect" id="node24" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a26c9ca11e866f9275a27a1b5c68bcba5" title="Check if the parallel object associated with this interface is still alive." alt="" coords="273,205,524,249"/>
+<area shape="rect" id="node5" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a146d8020cf6d8f70fb956883a6a63b90" title="Deserialize an Interface from a buffer." alt="" coords="573,46,888,74"/>
+<area shape="rect" id="node12" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a0f961c6a93c4abf18c95c1d259db0ac0" title="Retrieve an array from the buffer." alt="" coords="623,138,839,182"/>
+<area shape="rect" id="node21" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#aafb25fe0b03b9939e4155a147231f1f2" title="Invoke a method on an object." alt="" coords="1255,205,1497,233"/>
+<area shape="rect" id="node15" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a679981623098e87d0376c708a2b3c012" title="Retrieve an object reference from the buffer." alt="" coords="937,138,1204,182"/>
+<area shape="rect" id="node17" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a3c35f0855508878a5f2800132b4c81f3" title="Construct a parallel object." alt="" coords="1264,138,1488,182"/>
+<area shape="rect" id="node19" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#a848c6ac9d0900c3966a3680fbcd9ecc2" title="Create a new object from specific class and object description." alt="" coords="1547,138,1755,182"/>
+</map>

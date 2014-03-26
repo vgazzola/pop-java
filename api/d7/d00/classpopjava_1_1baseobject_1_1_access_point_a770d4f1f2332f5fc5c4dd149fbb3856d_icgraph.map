@@ -1,0 +1,15 @@
+<map id="popjava.baseobject.AccessPoint.create" name="popjava.baseobject.AccessPoint.create">
+<area shape="rect" id="node3" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#a29465e155b3c616cec9db409b2aa02de" title="Add an access point by a formatted string." alt="" coords="260,181,489,225"/>
+<area shape="rect" id="node5" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#ac4a43cf87de086bd41d777223094ccb1" title="Create a new POPAccessPoint an make some initialization tasks." alt="" coords="572,5,801,49"/>
+<area shape="rect" id="node7" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#ae07f6f515f1751af0ad3d7fa0fee6068" title="Deserialize the object from the buffer received from the network." alt="" coords="572,71,801,115"/>
+<area shape="rect" id="node11" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af11c36af52875f3bfb77fd0390f0f6d1" title="Entry point for the Broker." alt="" coords="584,138,789,166"/>
+<area shape="rect" id="node13" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a89c5777bfa97b8a06890a50ffa8ab521" title="Allocate resource for the associated parallel object." alt="" coords="540,189,833,217"/>
+<area shape="rect" id="node19" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a5ad523bb09e6118d2f10dec936aea7c1" title="Bind the interface&#45;side with the broker&#45;side." alt="" coords="572,239,801,283"/>
+<area shape="rect" id="node25" href="$d9/dce/classpopjava_1_1system_1_1_p_o_p_system.html#a6deccf0cba284fa2c881fad937325c79" title="Get the default local access point." alt="" coords="569,306,804,350"/>
+<area shape="rect" id="node27" href="$d9/dce/classpopjava_1_1system_1_1_p_o_p_system.html#abb0efedffaeaff18fd8ce9cf6dda074b" title="Initialize the application scope services." alt="" coords="552,373,821,401"/>
+<area shape="rect" id="node9" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a146d8020cf6d8f70fb956883a6a63b90" title="Deserialize an Interface from a buffer." alt="" coords="883,79,1197,107"/>
+<area shape="rect" id="node15" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a3c35f0855508878a5f2800132b4c81f3" title="Construct a parallel object." alt="" coords="928,177,1152,221"/>
+<area shape="rect" id="node17" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#a848c6ac9d0900c3966a3680fbcd9ecc2" title="Create a new object from specific class and object description." alt="" coords="1245,177,1453,221"/>
+<area shape="rect" id="node21" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#af0cfb1bd5e4ba5a02b2d221f1f42915a" title="Bind an Interface to her parallel object (her associated Broker)" alt="" coords="935,243,1145,287"/>
+<area shape="rect" id="node23" href="$d0/d31/classpopjava_1_1_pop_java.html#a8796c162a8c19dec6bd87f23c475af73" title="Static method used to create a parallel object from an existing access point." alt="" coords="1247,251,1452,279"/>
+</map>

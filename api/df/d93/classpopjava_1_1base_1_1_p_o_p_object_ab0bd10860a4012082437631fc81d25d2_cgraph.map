@@ -1,0 +1,6 @@
+<map id="popjava.base.POPObject.getConstructorByInfo" name="popjava.base.POPObject.getConstructorByInfo">
+<area shape="rect" id="node3" href="$d5/daf/classpopjava_1_1base_1_1_method_info.html#a204a82cc5a3519cf9dc8951dfe6fb3fe" title="Check if if the given object is equals to this MethodInfo." alt="" coords="268,79,508,107"/>
+<area shape="rect" id="node5" href="$d5/daf/classpopjava_1_1base_1_1_method_info.html#a85dc06c57490cc46eb4a5a34ca1d5896" title="Create a new MethodInfo with the given values." alt="" coords="568,5,765,49"/>
+<area shape="rect" id="node7" href="$d5/daf/classpopjava_1_1base_1_1_method_info.html#a24a49bcdb37b7a0f8038d5563104baa5" title="Get the class unique identifier stored in this object." alt="" coords="557,71,776,115"/>
+<area shape="rect" id="node9" href="$d5/daf/classpopjava_1_1base_1_1_method_info.html#a5a87a5574ee3b1ac007274cd00cf237d" title="Get the method unique identifier stored in this object." alt="" coords="557,138,776,182"/>
+</map>

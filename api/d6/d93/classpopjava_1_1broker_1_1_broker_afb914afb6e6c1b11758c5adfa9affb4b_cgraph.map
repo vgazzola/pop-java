@@ -1,0 +1,5 @@
+<map id="popjava.broker.Broker.invoke" name="popjava.broker.Broker.invoke">
+<area shape="rect" id="node3" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a34e3da3c97f6be3d3e137c9f34340be7" title="Get the semantic of the current request." alt="" coords="272,5,480,49"/>
+<area shape="rect" id="node5" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#ade963add297f8e02709766ff070df050" title="Set the current status of the request." alt="" coords="273,71,479,115"/>
+<area shape="rect" id="node7" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a0e4b0aaecd518aec50d42d6ba468a062" title="Remove the request from the request queue after invocation." alt="" coords="273,138,479,182"/>
+</map>

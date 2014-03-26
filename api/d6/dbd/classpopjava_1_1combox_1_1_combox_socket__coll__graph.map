@@ -1,0 +1,6 @@
+<map id="popjava.combox.ComboxSocket" name="popjava.combox.ComboxSocket">
+<area shape="rect" id="node2" href="$df/d54/classpopjava_1_1combox_1_1_combox.html" title="This class is the base implementation for all Combox in the POP&#45;Java library All other combox must in..." alt="" coords="84,491,276,717"/>
+<area shape="rect" id="node4" href="$d5/d66/classpopjava_1_1buffer_1_1_buffer_factory.html" title="This abstract class defined all the methods needed by a BufferFactory." alt="" coords="5,249,219,346"/>
+<area shape="rect" id="node6" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html" title="This class represents multiple access to the broker&#45;side parallel object." alt="" coords="243,169,472,426"/>
+<area shape="rect" id="node8" href="$d8/d56/interfacepopjava_1_1dataswaper_1_1_i_p_o_p_base.html" title="This interface declare the needed method for the serialization and the deserialization of an object..." alt="" coords="119,6,343,103"/>
+</map>

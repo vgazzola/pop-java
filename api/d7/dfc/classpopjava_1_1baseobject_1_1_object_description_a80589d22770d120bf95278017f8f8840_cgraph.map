@@ -1,0 +1,16 @@
+<map id="popjava.baseobject.ObjectDescription.merge" name="popjava.baseobject.ObjectDescription.merge">
+<area shape="rect" id="node3" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#af8c7e21b843733189dab8227a6f7c4b4" title="Get the OD power value." alt="" coords="275,5,477,49"/>
+<area shape="rect" id="node5" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a5193f795baeb33d86bc12e326df31ebe" title="Set the power OD by ODElement." alt="" coords="275,71,477,115"/>
+<area shape="rect" id="node7" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#afdd12881fa9fd05754ba62d28c6ef82f" title="Set the bandwidth OD by ODELement." alt="" coords="275,138,477,182"/>
+<area shape="rect" id="node9" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a32e89fd2267b9597b80d155e6cbf24d2" title="Set the memory OD by ODElement." alt="" coords="275,205,477,249"/>
+<area shape="rect" id="node11" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#ac0d01d64ec56bd28627e4dae76c299c6" title="Get the OD walltime value." alt="" coords="275,271,477,315"/>
+<area shape="rect" id="node13" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a2c7521185a924e3552fb1b2a9ecef60e" title="Get the OD encoding value." alt="" coords="275,338,477,382"/>
+<area shape="rect" id="node15" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a6686b41e06d3910b0c2d2d8999fe332c" title="Get the OD protocol value." alt="" coords="275,405,477,449"/>
+<area shape="rect" id="node17" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a0cdc6a6181b1340358ed0bb0a742db7a" title="Get he OD platform value." alt="" coords="275,471,477,515"/>
+<area shape="rect" id="node19" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a2e088de834539fde1ddd928e69eb41ce" title="Get the OD hostname value." alt="" coords="275,538,477,582"/>
+<area shape="rect" id="node21" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a805de95799e89e40b9c68e6e99954ef0" title="Get the OD JobUrl value." alt="" coords="275,605,477,649"/>
+<area shape="rect" id="node23" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a608814b66aab677e48062babd135427c" title="Get the OD code file value." alt="" coords="275,671,477,715"/>
+<area shape="rect" id="node25" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#aa592de05108bea0dc7381663c57c9c85" title="Get the OD search maximum depth value." alt="" coords="256,738,496,782"/>
+<area shape="rect" id="node27" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a62de8b83339f91db738ba658368b9bf4" title="Get the OD search maximum size value." alt="" coords="263,805,489,849"/>
+<area shape="rect" id="node29" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#ac1d0b4bc7d631dc3423a3c960b68d4c9" title="Get the OD search waiting time value." alt="" coords="259,871,493,915"/>
+</map>

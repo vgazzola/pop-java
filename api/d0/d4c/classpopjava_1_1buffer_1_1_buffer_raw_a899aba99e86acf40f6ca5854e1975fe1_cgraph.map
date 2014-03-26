@@ -1,0 +1,5 @@
+<map id="popjava.buffer.BufferRaw.putFloat" name="popjava.buffer.BufferRaw.putFloat">
+<area shape="rect" id="node3" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a563ba3c42125faa8c4f944cc849ca855" title="Resize the current buffer to store more data." alt="" coords="273,30,508,58"/>
+<area shape="rect" id="node5" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a3b9e3beef282f6ab619699316abf41a3" title="Get the current size of the buffer." alt="" coords="572,5,793,33"/>
+<area shape="rect" id="node7" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#ac324acf826a273e13cd0e692eec1a801" title="Get the current buffer&#39;s position." alt="" coords="557,55,808,83"/>
+</map>

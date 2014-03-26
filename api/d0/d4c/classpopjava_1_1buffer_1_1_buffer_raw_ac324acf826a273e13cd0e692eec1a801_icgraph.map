@@ -1,0 +1,33 @@
+<map id="popjava.buffer.BufferRaw.position" name="popjava.buffer.BufferRaw.position">
+<area shape="rect" id="node3" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a7298e112d4393c9b4394d22deb6e3b6c" title="Retrieve the message header from the buffer." alt="" coords="308,5,551,49"/>
+<area shape="rect" id="node5" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a784602b6e6c3d834cfccfbcfa3766e5c" title="Retrieve a char from the buffer." alt="" coords="304,71,555,99"/>
+<area shape="rect" id="node7" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a8319c6713ada17b440c39e37e8ca233a" title="Retrieve a string from the buffer." alt="" coords="320,122,539,166"/>
+<area shape="rect" id="node9" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a9a2c6c4413e5df331e96b0fb5f2a6a62" title="Insert a byte in the buffer." alt="" coords="619,442,837,470"/>
+<area shape="rect" id="node13" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#ae5532abf166ced87b23b5f11a6a6d512" title="Insert a char into the buffer." alt="" coords="603,290,853,318"/>
+<area shape="rect" id="node15" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#ac91ba85007d211304365482591468798" title="Insert a string into the buffer." alt="" coords="907,391,1125,435"/>
+<area shape="rect" id="node19" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a0f4243a013ed9fe606aa4d82882635cc" title="Erase the buffer and set the pointer to the beginning." alt="" coords="315,1149,544,1177"/>
+<area shape="rect" id="node21" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a26e30771812c92ec51cb55bf1a63f863" title="Reset the buffer before reception of a new message." alt="" coords="315,1199,544,1243"/>
+<area shape="rect" id="node23" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a563ba3c42125faa8c4f944cc849ca855" title="Resize the current buffer to store more data." alt="" coords="312,690,547,718"/>
+<area shape="rect" id="node34" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a49017ec3b0191d859aa6cb06f18a220d" title="Insert a double array into the buffer." alt="" coords="907,325,1125,369"/>
+<area shape="rect" id="node36" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#abea9d1cf8a7a9ee80a9df921d69f7490" title="Insert a float array into the buffer." alt="" coords="907,946,1125,990"/>
+<area shape="rect" id="node38" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a3ef93c857444372dfe1d8cffb2879395" title="Insert a int array into the buffer." alt="" coords="907,586,1125,630"/>
+<area shape="rect" id="node42" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#aaca94171e7cf8f9f4dffadd4c3916619" title="Insert a long array into the buffer." alt="" coords="907,879,1125,923"/>
+<area shape="rect" id="node47" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a145792a51332472383bd90541b395581" title="Insert a short array into the buffer." alt="" coords="907,1039,1125,1083"/>
+<area shape="rect" id="node65" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a5fb843dd5e17d60ce9b158e7da4b8923" title="Retrieve a byte array from the buffer." alt="" coords="320,1266,539,1310"/>
+<area shape="rect" id="node67" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a6bb741623a866fd2ad7ef44c9aef7e66" title="Retrieve a double array from the buffer." alt="" coords="320,1333,539,1377"/>
+<area shape="rect" id="node69" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a8c0cb5cc477ec13dcc507c2a562b3efb" title="Retrieve a float array from the buffer." alt="" coords="320,1399,539,1443"/>
+<area shape="rect" id="node71" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#ae667b2047f7c24621f742ef68a9de3e3" title="Retrieve a int array from the buffer." alt="" coords="320,1466,539,1510"/>
+<area shape="rect" id="node75" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#adb6a45852bfd89f327a5065e35d94fb5" title="Retrieve a long array from the buffer." alt="" coords="320,1533,539,1577"/>
+<area shape="rect" id="node77" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a520ddc20d4d4dc4bd56a3fae6de3bba3" title="Retrieve a short array from the buffer." alt="" coords="320,1599,539,1643"/>
+<area shape="rect" id="node11" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#af4b3fc73f3205a3e70177a9d8d108838" title="Insert a byte array into the buffer." alt="" coords="907,493,1125,537"/>
+<area shape="rect" id="node17" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#af004e412251bf6e35b26dc0e371b1002" title="Insert a char array into the buffer." alt="" coords="1179,391,1397,435"/>
+<area shape="rect" id="node27" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a899aba99e86acf40f6ca5854e1975fe1" title="Insert a float value into the buffer." alt="" coords="619,543,837,587"/>
+<area shape="rect" id="node29" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a64b3bfb1bd810f7551c07298d92ff672" title="Insert a int into the buffer." alt="" coords="611,661,845,689"/>
+<area shape="rect" id="node49" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#ae8602f83485a4316fa6b9df56eba05fa" title="Insert a double value into the buffer." alt="" coords="619,711,837,755"/>
+<area shape="rect" id="node51" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a6f7b561d1dbc77e3b4f5e9bf76aa0319" title="Insert a long into the buffer." alt="" coords="603,778,853,806"/>
+<area shape="rect" id="node58" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#acc13f8bedd9b1242c7c1e7b0498b1683" title="Insert a short into the buffer." alt="" coords="619,829,837,873"/>
+<area shape="rect" id="node31" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a88a59868bb1a769efac3b26b8f5f38bf" title="Insert a boolean in the buffer." alt="" coords="907,653,1125,697"/>
+<area shape="rect" id="node45" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#acec3307d1acf8270dd13bb0312c01b0c" title="Pack the message header into the buffer." alt="" coords="903,719,1129,763"/>
+<area shape="rect" id="node40" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#af8d7e0c035f63b30f76b8ec7ca8d6ac3" title="Insert a boolean array into the buffer." alt="" coords="1179,586,1397,630"/>
+<area shape="rect" id="node73" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a2dbfac11a0431c3a8159d405cbca40a6" title="Retrieve a boolean array from the buffer." alt="" coords="619,1466,837,1510"/>
+</map>

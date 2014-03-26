@@ -1,0 +1,15 @@
+<map id="popjava.broker.Request.getSenmatics" name="popjava.broker.Request.getSenmatics">
+<area shape="rect" id="node3" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#afb914afb6e6c1b11758c5adfa9affb4b" title="This method is responsible to dispatch the request between invokeConstructor and invokeMethod." alt="" coords="263,63,479,91"/>
+<area shape="rect" id="node13" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a147d1f54bf2c1b9694bdfa7d44b3b5f1" title="This method is responsible to handle the POP system call." alt="" coords="529,341,753,369"/>
+<area shape="rect" id="node17" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#ad126ebe924f538d6d925dd1e56431f1f" title="Returns true if this request is a synchronous request, false if asynchronous." alt="" coords="273,298,468,342"/>
+<area shape="rect" id="node19" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a974c55ed952133f923edc490e06efe2d" title="Returns true if this request is a concurrent request, false otherwise." alt="" coords="273,114,468,158"/>
+<area shape="rect" id="node30" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a05239247c7d77c868022919b54b19821" title="Returns true if this request is a mutex request, false otherwise." alt="" coords="273,181,468,225"/>
+<area shape="rect" id="node5" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af2527e3d1418e0c812b42d83a02b8153" title="This method is responsible to handle the broker&#45;side semantics for a request." alt="" coords="536,55,747,99"/>
+<area shape="rect" id="node11" href="$d5/d57/classpopjava_1_1broker_1_1_p_o_p_thread.html#ad1b2e07fb7de85bd66305d597bfb2aee" title="Launch the execution of the current POPThread." alt="" coords="528,5,755,33"/>
+<area shape="rect" id="node7" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a0239d325af8816f3f698c13442e6f058" title="Main loop of this broker." alt="" coords="841,55,1047,99"/>
+<area shape="rect" id="node9" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af11c36af52875f3bfb77fd0390f0f6d1" title="Entry point for the Broker." alt="" coords="1155,63,1360,91"/>
+<area shape="rect" id="node15" href="$db/df2/classpopjava_1_1combox_1_1_combox_receive_request_socket.html#a1bfd85a2e53b2d33ef4679e59c24080d" title="Start the thread." alt="" coords="1135,282,1380,326"/>
+<area shape="rect" id="node22" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#ab645ea394cf4c44f0b878f2bd7b7c3b8" title="Returns true if this request is a sequential request, false otherwise." alt="" coords="544,173,739,217"/>
+<area shape="rect" id="node24" href="$d6/d98/classpopjava_1_1broker_1_1_request_queue.html#adf9172952318d29373f6c910b8d3e057" title="Put a new request in the queue." alt="" coords="816,210,1072,238"/>
+<area shape="rect" id="node27" href="$d6/d98/classpopjava_1_1broker_1_1_request_queue.html#ad61f5febbd62a95154e1767f5c1b863c" title="Remove a specific request from the queue." alt="" coords="804,269,1084,297"/>
+</map>

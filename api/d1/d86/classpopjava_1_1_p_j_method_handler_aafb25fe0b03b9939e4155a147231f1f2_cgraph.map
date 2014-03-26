@@ -1,0 +1,42 @@
+<map id="popjava.PJMethodHandler.invoke" name="popjava.PJMethodHandler.invoke">
+<area shape="rect" id="node3" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#aa8a89af872dddbc448da11ee7c60fe16" title="Retrieve a method by its informations." alt="" coords="327,41,540,85"/>
+<area shape="rect" id="node7" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a31eec26f5f5b14dc598e3353592ff839" title="Retrieve the invocation semantic of a specific method." alt="" coords="327,250,540,294"/>
+<area shape="rect" id="node9" href="$d6/da6/classpopjava_1_1util_1_1_util.html#a234f21f2e30236f64c7a2197dfde7871" title="Returns true of one of the annotations defines a IN only parameter." alt="" coords="327,317,540,361"/>
+<area shape="rect" id="node11" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a63b0a9498d63e2b5eed6919e0c6001b8" title="Send the buffer content to the broker&#45;side." alt="" coords="300,383,567,427"/>
+<area shape="rect" id="node13" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a0bb9c7f286ef2626d36006ccd0c286a0" title="Receive response from the broker&#45;side." alt="" coords="300,450,567,494"/>
+<area shape="rect" id="node27" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a679981623098e87d0376c708a2b3c012" title="Retrieve an object reference from the buffer." alt="" coords="300,587,567,631"/>
+<area shape="rect" id="node50" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a3f1d675b0b72ec640bb728e7953263a0" title="Retrieve an object from the buffer." alt="" coords="951,881,1167,925"/>
+<area shape="rect" id="node73" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#ac2f968609c2ff8241cd206fa54d999d5" title="Write a new debug information line in the file." alt="" coords="1932,1045,2140,1089"/>
+<area shape="rect" id="node91" href="$d4/df0/classpopjava_1_1util_1_1_class_util.html#ad9332541b34f47b576d45a745412d902" title="Get a default object of a primitive class." alt="" coords="339,1205,528,1249"/>
+<area shape="rect" id="node5" href="$d4/df0/classpopjava_1_1util_1_1_class_util.html#a75b5df4a4544a333289d0cfb5050d393" title="Get the signature of a method." alt="" coords="647,5,836,49"/>
+<area shape="rect" id="node15" href="$d5/d25/classpopjava_1_1base_1_1_message_header.html#ab529dce568bcfc31330655ee3af8bbf6" title="Get the request type." alt="" coords="616,71,867,115"/>
+<area shape="rect" id="node17" href="$d5/d25/classpopjava_1_1base_1_1_message_header.html#aeb5efcd5ce976a903b5fcad86d276ae4" title="Get the exception code stored in this message header." alt="" coords="616,138,867,182"/>
+<area shape="rect" id="node19" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#acd63b22a253c34bace228c50b41c23e3" title="Check error code and throw the right exception." alt="" coords="624,263,859,307"/>
+<area shape="rect" id="node21" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#af01cef9d073c60242d052030c9ac0a35" title="Deserialize an exception from the buffer." alt="" coords="916,246,1201,274"/>
+<area shape="rect" id="node23" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#ad0e80c1d4dee5d7a840437094d068d85" title="Retrieve a int from the buffer." alt="" coords="1285,297,1520,325"/>
+<area shape="rect" id="node25" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#aeb831832127976843dc5e8f52162fc73" title="Retrieve a string from the buffer." alt="" coords="1295,359,1511,403"/>
+<area shape="rect" id="node29" href="$d8/d56/interfacepopjava_1_1dataswaper_1_1_i_p_o_p_base.html#aed2df1366e624ca471578b85bfe8f11f" title="Deserialize an object from the buffer." alt="" coords="1252,1103,1553,1131"/>
+<area shape="rect" id="node31" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a0f961c6a93c4abf18c95c1d259db0ac0" title="Retrieve an array from the buffer." alt="" coords="633,605,849,649"/>
+<area shape="rect" id="node79" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#a97c514ee6237e0212dc9cd2452524b94" title="Writes an exception to the same log as writeDebugInfo." alt="" coords="1932,743,2140,787"/>
+<area shape="rect" id="node34" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#adf165b42f4c19f05ce12fe4561936b2f" title="Retrieve a byte array from the buffer." alt="" coords="951,681,1167,725"/>
+<area shape="rect" id="node36" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a033655fad44dd94c6ccc1195f68468ae" title="Retrieve a int array from the buffer." alt="" coords="951,747,1167,791"/>
+<area shape="rect" id="node38" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a9a13fc7b5ddf480f58531d84967d0ba0" title="Retrieve a float array from the buffer." alt="" coords="951,814,1167,858"/>
+<area shape="rect" id="node40" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a856ae446b09c53d53ee484cb357ef0e3" title="Retrieve a boolean array from the buffer." alt="" coords="951,347,1167,391"/>
+<area shape="rect" id="node42" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a8e39062f7d516f9c0ab72ccf27b0e630" title="Retrieve a long array from the buffer." alt="" coords="951,414,1167,458"/>
+<area shape="rect" id="node44" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#ac07bf4d7054b1f4d8ef53ce8d9be1388" title="Retrieve a double array from the buffer." alt="" coords="951,481,1167,525"/>
+<area shape="rect" id="node46" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#ad5daacb847c9138a0749494d38560d15" title="Retrieve a short array from the buffer." alt="" coords="951,547,1167,591"/>
+<area shape="rect" id="node48" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a91c6706c61171641c2c20710e5d58a2d" title="Retrieve a char array from the buffer." alt="" coords="951,614,1167,658"/>
+<area shape="rect" id="node53" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a46fef1a8610d44c75f2c4d17280990c9" title="Retrieve a float from the buffer." alt="" coords="1295,869,1511,913"/>
+<area shape="rect" id="node55" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a6c6bed2fad6d7e04f5f9a40b3a24bd62" title="Retrieve a boolean from the buffer." alt="" coords="1295,935,1511,979"/>
+<area shape="rect" id="node58" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a586a8ae1c0b1631ed25444a75e30602f" title="Retrieve a char from the buffer." alt="" coords="1279,1002,1527,1030"/>
+<area shape="rect" id="node60" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#ab78db0b97c567b59bb1cb3eec707db3d" title="Retrieve a long from the buffer." alt="" coords="1279,450,1527,478"/>
+<area shape="rect" id="node62" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a658eb8bf44b21b1d7da6d094af12c0a6" title="Retrieve a double from the buffer." alt="" coords="1295,501,1511,545"/>
+<area shape="rect" id="node64" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a5fa400578d639e22c657cd4e35a63013" title="Retrieve a short from the buffer." alt="" coords="1295,567,1511,611"/>
+<area shape="rect" id="node67" href="$d0/d31/classpopjava_1_1_pop_java.html#a88de7e0e117ffeeaa8ada9b046e91e88" title="Static method used to create a parallel object from the buffer." alt="" coords="1300,802,1505,846"/>
+<area shape="rect" id="node82" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#ae7f2ed7cc0c12c4bc2c915a45f07aed2" title="Throw an exception when invoke a serialize method." alt="" coords="1604,685,1855,729"/>
+<area shape="rect" id="node87" href="$d1/dbf/interfacepopjava_1_1dataswaper_1_1_i_p_o_p_base_input.html#a43bf333ef419c524a20c57a87c01254f" title="Deserialize an object from the buffer." alt="" coords="1291,634,1515,678"/>
+<area shape="rect" id="node69" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#aa9aa09463ca0a7df7b7f7c4ac41f4db7" title="Recover a parallel object from the buffer." alt="" coords="1625,802,1833,846"/>
+<area shape="rect" id="node71" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a5364b8ef45941b2c473a9622e85d2e3e" title="Deserialize the object from the buffer." alt="" coords="1904,810,2168,838"/>
+<area shape="rect" id="node75" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a28531ddb7ee1a55efad3bf5466689636" title="Throw an exception when the object binding is not a success." alt="" coords="1911,861,2161,905"/>
+<area shape="rect" id="node77" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a2a44b5ea147ac6a2fa3421e69e0580ee" title="Create a new empty POPException." alt="" coords="2217,773,2431,817"/>
+</map>

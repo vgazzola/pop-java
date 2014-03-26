@@ -1,0 +1,10 @@
+<map id="popjava.combox.ComboxSocket.receive" name="popjava.combox.ComboxSocket.receive">
+<area shape="rect" id="node3" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a4ad99c8deb8261c596c37fedcd886561" title="Reset the buffer before reception of a new message." alt="" coords="372,5,599,49"/>
+<area shape="rect" id="node5" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#acad19b2dfcd76880d5340a5d7cfddda3" title="Get a integer value of the byte array." alt="" coords="377,71,593,115"/>
+<area shape="rect" id="node7" href="$df/d44/classpopjava_1_1combox_1_1_combox_socket.html#af40b1bc21a51e6ac54e50473bc020107" title="Close the connection." alt="" coords="347,138,624,166"/>
+<area shape="rect" id="node11" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a2460410be8ec15959b466be06a86bbf8" title="Insert a int into the buffer." alt="" coords="368,189,603,217"/>
+<area shape="rect" id="node13" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#adc14e4b8f87c1e3eb745222b1149cafe" title="Insert a byte in the buffer." alt="" coords="377,239,593,267"/>
+<area shape="rect" id="node15" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#ac2f968609c2ff8241cd206fa54d999d5" title="Write a new debug information line in the file." alt="" coords="381,290,589,334"/>
+<area shape="rect" id="node17" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#af25b91dd6218c97e51cfe779dde04545" title="Retrieve the message header from the buffer." alt="" coords="364,357,607,401"/>
+<area shape="rect" id="node9" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#a97c514ee6237e0212dc9cd2452524b94" title="Writes an exception to the same log as writeDebugInfo." alt="" coords="672,130,880,174"/>
+</map>

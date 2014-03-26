@@ -1,0 +1,5 @@
+<map id="popjava.combox.ComboxSocket.receive" name="popjava.combox.ComboxSocket.receive">
+<area shape="rect" id="node3" href="$d2/d95/classpopjava_1_1combox_1_1_combox_allocate_socket.html#aac761129f38b37ddc417ff6591fa8567" title="Receive a new message from the other&#45;side." alt="" coords="347,5,595,49"/>
+<area shape="rect" id="node5" href="$db/df2/classpopjava_1_1combox_1_1_combox_receive_request_socket.html#ae3b220bb874cd8035683acee6ade5181" title="Get request from the buffer." alt="" coords="348,71,593,115"/>
+<area shape="rect" id="node7" href="$db/df2/classpopjava_1_1combox_1_1_combox_receive_request_socket.html#a1bfd85a2e53b2d33ef4679e59c24080d" title="Start the thread." alt="" coords="644,71,889,115"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="popjava.combox.ComboxServerSocket.ComboxServerSocket" name="popjava.combox.ComboxServerSocket.ComboxServerSocket">
+<area shape="rect" id="node3" href="$d1/d54/classpopjava_1_1combox_1_1_combox_server_socket.html#ad8ed3d92a898438a87b87efe96992a42" title="Create and start the combox server." alt="" coords="291,171,528,215"/>
+<area shape="rect" id="node5" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a0df36fb97bf671263f801998a794511e" title="Get the port of this access point." alt="" coords="595,5,797,49"/>
+<area shape="rect" id="node7" href="$d4/d32/classpopjava_1_1combox_1_1_combox_accept_socket.html#a3c6c183c342e29a8d8b3b98edd41834b" title="Set the current status." alt="" coords="577,71,815,115"/>
+<area shape="rect" id="node9" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a021d5cbb298dc8f12a34b560dfaf3b35" title="Set the protocol for this access point." alt="" coords="595,138,797,182"/>
+<area shape="rect" id="node11" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#aada5b68328a7d47f553326274c9494f0" title="Set the host form this access point." alt="" coords="595,205,797,249"/>
+<area shape="rect" id="node13" href="$d9/dce/classpopjava_1_1system_1_1_p_o_p_system.html#ac053eb06fb18914649aef5164ae17e4a" title="Get the host of the local node." alt="" coords="579,271,813,315"/>
+<area shape="rect" id="node15" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a08cd9f4929059f9805f3da203634e203" title="Set the port for this access point." alt="" coords="595,338,797,382"/>
+</map>

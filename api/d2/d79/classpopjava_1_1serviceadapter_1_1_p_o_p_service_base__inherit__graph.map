@@ -1,0 +1,10 @@
+<map id="popjava.serviceadapter.POPServiceBase" name="popjava.serviceadapter.POPServiceBase">
+<area shape="rect" id="node7" href="$d2/ddb/classpopjava_1_1serviceadapter_1_1_p_o_p_job_service.html" title="Partial POP&#45;Java class implementation to be used with the POP&#45;C++ runtime This class declares the nec..." alt="" coords="5,878,237,1007"/>
+<area shape="rect" id="node11" href="$d9/da5/classpopjava_1_1serviceadapter_1_1_p_o_p_remote_log.html" title="Partial POP&#45;Java class implementation to be used with the POP&#45;C++ runtime This class declares the nec..." alt="" coords="261,878,547,1007"/>
+<area shape="rect" id="node2" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html" title="This class is the base class of all POP&#45;Java parallel classes." alt="" coords="159,153,367,634"/>
+<area shape="rect" id="node4" href="$d8/d56/interfacepopjava_1_1dataswaper_1_1_i_p_o_p_base.html" title="This interface declare the needed method for the serialization and the deserialization of an object..." alt="" coords="151,6,375,103"/>
+<area shape="rect" id="node9" href="$da/d33/classpopjava_1_1serviceadapter_1_1_p_o_p_job_manager.html" title="Partial POP&#45;Java class implementation to be used with the POP&#45;C++ runtime This class declares the nec..." alt="" coords="5,1057,237,1330"/>
+<area shape="rect" id="node13" href="$dd/d98/classpopjava_1_1serviceadapter_1_1_p_o_p_code_manager.html" title="Partial POP&#45;Java class implementation to be used with the POP&#45;C++ runtime This class declares the nec..." alt="" coords="281,1113,527,1274"/>
+<area shape="rect" id="node15" href="$df/da3/classpopjava_1_1serviceadapter_1_1_p_o_p_object_monitor.html" title="Partial POP&#45;Java class implementation to be used with the POP&#45;C++ runtime This class declares the nec..." alt="" coords="277,1379,531,1557"/>
+<area shape="rect" id="node17" href="$d5/db5/classpopjava_1_1serviceadapter_1_1_p_o_p_app_service.html" title="Partial POP&#45;Java class implementation to be used with the POP&#45;C++ runtime This class declares the nec..." alt="" coords="287,1606,521,1799"/>
+</map>

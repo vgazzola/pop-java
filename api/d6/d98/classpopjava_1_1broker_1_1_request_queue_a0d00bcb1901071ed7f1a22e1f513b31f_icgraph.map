@@ -1,0 +1,6 @@
+<map id="popjava.broker.RequestQueue.canPeek" name="popjava.broker.RequestQueue.canPeek">
+<area shape="rect" id="node3" href="$d6/d98/classpopjava_1_1broker_1_1_request_queue.html#adf9172952318d29373f6c910b8d3e057" title="Put a new request in the queue." alt="" coords="355,13,611,41"/>
+<area shape="rect" id="node7" href="$d6/d98/classpopjava_1_1broker_1_1_request_queue.html#a10ba173db86f927d6dc5e18075e1f2ec" title="Peek a request in the queue." alt="" coords="352,63,613,91"/>
+<area shape="rect" id="node9" href="$d6/d98/classpopjava_1_1broker_1_1_request_queue.html#ad61f5febbd62a95154e1767f5c1b863c" title="Remove a specific request from the queue." alt="" coords="343,114,623,142"/>
+<area shape="rect" id="node5" href="$db/df2/classpopjava_1_1combox_1_1_combox_receive_request_socket.html#a1bfd85a2e53b2d33ef4679e59c24080d" title="Start the thread." alt="" coords="673,5,919,49"/>
+</map>

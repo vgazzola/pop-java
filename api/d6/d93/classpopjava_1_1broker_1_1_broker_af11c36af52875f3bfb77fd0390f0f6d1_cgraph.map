@@ -1,0 +1,33 @@
+<map id="popjava.broker.Broker.main" name="popjava.broker.Broker.main">
+<area shape="rect" id="node3" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#ac2f968609c2ff8241cd206fa54d999d5" title="Write a new debug information line in the file." alt="" coords="556,26,764,70"/>
+<area shape="rect" id="node5" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#a97c514ee6237e0212dc9cd2452524b94" title="Writes an exception to the same log as writeDebugInfo." alt="" coords="832,373,1040,417"/>
+<area shape="rect" id="node7" href="$d6/da6/classpopjava_1_1util_1_1_util.html#a60570044afcaeb06b4e721f8c99ace1c" title="Remove a string in an array list." alt="" coords="568,343,752,387"/>
+<area shape="rect" id="node9" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#a29465e155b3c616cec9db409b2aa02de" title="Add an access point by a formatted string." alt="" coords="263,469,492,513"/>
+<area shape="rect" id="node15" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#affc4a88557eab7f820bf805816bd9d75" title="Get the number of different access points." alt="" coords="263,535,492,579"/>
+<area shape="rect" id="node17" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#ac12c6c8a16cd4f8078cd657491da799b" title="Format the POPAccessPoint to a string value." alt="" coords="545,610,775,654"/>
+<area shape="rect" id="node19" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a8c309e7ce752ddea40bd3e33f5658870" title="Initialization of the broker&#45;side." alt="" coords="263,418,492,446"/>
+<area shape="rect" id="node26" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a32bee66f6d0ccd9ceca2d03450276c88" title="Associate a message header with this buffer." alt="" coords="271,770,484,814"/>
+<area shape="rect" id="node30" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a2460410be8ec15959b466be06a86bbf8" title="Insert a int into the buffer." alt="" coords="543,677,777,705"/>
+<area shape="rect" id="node32" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#ab33436012f228d4ee96cde1fccf83e21" title="Return the access point of this broker." alt="" coords="280,837,475,881"/>
+<area shape="rect" id="node34" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#a67465528117b27620f76eabd846deb4b" title="Serialize the object into the buffer to be sent over the network." alt="" coords="263,703,492,747"/>
+<area shape="rect" id="node42" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a0239d325af8816f3f698c13442e6f058" title="Main loop of this broker." alt="" coords="275,159,480,203"/>
+<area shape="rect" id="node11" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a770d4f1f2332f5fc5c4dd149fbb3856d" title="Create an access point from a formatted string." alt="" coords="559,543,761,587"/>
+<area shape="rect" id="node13" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a4249544673f62780bc764e539e32f4f8" title="Create a new AccessPoint." alt="" coords="835,543,1037,587"/>
+<area shape="rect" id="node22" href="$d9/dce/classpopjava_1_1system_1_1_p_o_p_system.html#ac053eb06fb18914649aef5164ae17e4a" title="Get the host of the local node." alt="" coords="543,410,777,454"/>
+<area shape="rect" id="node24" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#a789c9f054e6cf59b952f672c55836d6d" title="Add an access point to the POPAccessPoint." alt="" coords="545,477,775,521"/>
+<area shape="rect" id="node28" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a648397150a04edd297f184702cc8b00f" title="Erase the buffer and set the pointer to the beginning." alt="" coords="547,861,773,889"/>
+<area shape="rect" id="node36" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#af3d996c375bbb87546cecbda432690b3" title="Insert a string into the buffer." alt="" coords="552,727,768,771"/>
+<area shape="rect" id="node40" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a23f55f23b3735446a42fa2b6777e1788" title="Insert a boolean in the buffer." alt="" coords="552,794,768,838"/>
+<area shape="rect" id="node44" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#ae7928c1fc8058dac82f35c08caf6c166" title="Set state information of this broker." alt="" coords="564,93,756,137"/>
+<area shape="rect" id="node46" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#aa4e0311b2503d6182b2a2f474f7897e2" title="Get information about the state of this borker." alt="" coords="563,159,757,203"/>
+<area shape="rect" id="node52" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af2527e3d1418e0c812b42d83a02b8153" title="This method is responsible to handle the broker&#45;side semantics for a request." alt="" coords="555,226,765,270"/>
+<area shape="rect" id="node48" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a78d5dd41336979e5347bbc250f10f13b" title="Get information about the deamon mode of this broker." alt="" coords="844,5,1028,49"/>
+<area shape="rect" id="node50" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a4d123c54ea4e145103ca317d614d10ba" title="Specify if the parallel object is running like a deamon." alt="" coords="1096,5,1299,49"/>
+<area shape="rect" id="node54" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#af1a58223739cd41ff6ae30220da008e2" title="Set an associated broker." alt="" coords="833,255,1039,299"/>
+<area shape="rect" id="node56" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#ade963add297f8e02709766ff070df050" title="Set the current status of the request." alt="" coords="1095,293,1300,337"/>
+<area shape="rect" id="node58" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a05239247c7d77c868022919b54b19821" title="Returns true if this request is a mutex request, false otherwise." alt="" coords="839,71,1033,115"/>
+<area shape="rect" id="node62" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#afb914afb6e6c1b11758c5adfa9affb4b" title="This method is responsible to dispatch the request between invokeConstructor and invokeMethod." alt="" coords="828,205,1044,233"/>
+<area shape="rect" id="node69" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a974c55ed952133f923edc490e06efe2d" title="Returns true if this request is a concurrent request, false otherwise." alt="" coords="839,138,1033,182"/>
+<area shape="rect" id="node60" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a34e3da3c97f6be3d3e137c9f34340be7" title="Get the semantic of the current request." alt="" coords="1093,134,1301,178"/>
+<area shape="rect" id="node66" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a0e4b0aaecd518aec50d42d6ba468a062" title="Remove the request from the request queue after invocation." alt="" coords="1095,201,1300,245"/>
+</map>

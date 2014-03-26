@@ -1,0 +1,5 @@
+<map id="popjava.broker.Broker.getAccessPoint" name="popjava.broker.Broker.getAccessPoint">
+<area shape="rect" id="node3" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a3381e2502aa653bce0c0197f8496aba6" title="Retrieve the access point of the parallel object." alt="" coords="248,5,461,49"/>
+<area shape="rect" id="node7" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af11c36af52875f3bfb77fd0390f0f6d1" title="Entry point for the Broker." alt="" coords="252,71,457,99"/>
+<area shape="rect" id="node5" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#acca879d36397bd65294122184fd943e3" title="Return the reference of this object with a POP&#45;C++ format." alt="" coords="509,5,723,49"/>
+</map>

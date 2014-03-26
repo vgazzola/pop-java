@@ -1,0 +1,8 @@
+<map id="popjava.baseobject.ObjectDescription.getPlatform" name="popjava.baseobject.ObjectDescription.getPlatform">
+<area shape="rect" id="node3" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a80589d22770d120bf95278017f8f8840" title="Merge another object description with this object description." alt="" coords="612,5,815,49"/>
+<area shape="rect" id="node7" href="$df/d63/classpopjava_1_1dataswaper_1_1_object_description_input.html#a92144bc7f16dc335d1f2adcf089f4e5c" title="Create a new instance of ObjectDescriptionInput from an ObjectDescritption." alt="" coords="257,35,551,79"/>
+<area shape="rect" id="node9" href="$df/d63/classpopjava_1_1dataswaper_1_1_object_description_input.html#aaf2683cbf2275207feda96fce0d38701" title="Merge another object description with this object description." alt="" coords="301,101,507,145"/>
+<area shape="rect" id="node11" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a89c5777bfa97b8a06890a50ffa8ab521" title="Allocate resource for the associated parallel object." alt="" coords="257,168,551,196"/>
+<area shape="rect" id="node5" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#a848c6ac9d0900c3966a3680fbcd9ecc2" title="Create a new object from specific class and object description." alt="" coords="875,53,1083,97"/>
+<area shape="rect" id="node13" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a3c35f0855508878a5f2800132b4c81f3" title="Construct a parallel object." alt="" coords="601,101,825,145"/>
+</map>

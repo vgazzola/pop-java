@@ -1,0 +1,7 @@
+<map id="popjava.buffer.BufferRaw.putBooleanArray" name="popjava.buffer.BufferRaw.putBooleanArray">
+<area shape="rect" id="node3" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a3ef93c857444372dfe1d8cffb2879395" title="Insert a int array into the buffer." alt="" coords="272,47,491,91"/>
+<area shape="rect" id="node5" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a64b3bfb1bd810f7551c07298d92ff672" title="Insert a int into the buffer." alt="" coords="540,5,775,33"/>
+<area shape="rect" id="node7" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#a563ba3c42125faa8c4f944cc849ca855" title="Resize the current buffer to store more data." alt="" coords="825,55,1060,83"/>
+<area shape="rect" id="node11" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#ac324acf826a273e13cd0e692eec1a801" title="Get the current buffer&#39;s position." alt="" coords="1109,106,1360,134"/>
+<area shape="rect" id="node9" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a3b9e3beef282f6ab619699316abf41a3" title="Get the current size of the buffer." alt="" coords="1124,55,1345,83"/>
+</map>

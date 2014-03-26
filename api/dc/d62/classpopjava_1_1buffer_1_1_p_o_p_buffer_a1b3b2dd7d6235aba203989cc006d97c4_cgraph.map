@@ -1,0 +1,27 @@
+<map id="popjava.buffer.POPBuffer.serializeReferenceObject" name="popjava.buffer.POPBuffer.serializeReferenceObject">
+<area shape="rect" id="node3" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a441f40890f1f2a0f89907180fb18ed12" title="Insert an array into the buffer." alt="" coords="305,349,521,393"/>
+<area shape="rect" id="node23" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a2af5dab16575ec21650a4bcdae86ee28" title="Insert an object into the buffer." alt="" coords="572,583,788,627"/>
+<area shape="rect" id="node5" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a2460410be8ec15959b466be06a86bbf8" title="Insert a int into the buffer." alt="" coords="863,85,1097,113"/>
+<area shape="rect" id="node7" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a8dc5528ac4f9135324b206bb9514a309" title="Insert a byte array into the buffer." alt="" coords="572,49,788,93"/>
+<area shape="rect" id="node9" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a85c9adc313e674f80e94883d8ef9f775" title="Insert a int array into the buffer." alt="" coords="572,116,788,160"/>
+<area shape="rect" id="node11" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a8194398b051668ad5c2a7200dbac8a7c" title="Insert a float array into the buffer." alt="" coords="572,183,788,227"/>
+<area shape="rect" id="node13" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a216ee2279f893e6d1299a482d5fa25dc" title="Insert a boolean array into the buffer." alt="" coords="572,249,788,293"/>
+<area shape="rect" id="node15" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a7af269388651864ad14a010f8053ab7c" title="Insert a long array into the buffer." alt="" coords="572,316,788,360"/>
+<area shape="rect" id="node17" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#ab839885aee06d1367dfb14440541f358" title="Insert a double array into the buffer." alt="" coords="572,383,788,427"/>
+<area shape="rect" id="node19" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#ae5c0d4f99450e8e4d5d2f6592c2de327" title="Insert a short array into the buffer." alt="" coords="572,449,788,493"/>
+<area shape="rect" id="node21" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a071e19b98ad53cebeb3c0c54019f4718" title="Insert a char array into the buffer." alt="" coords="572,516,788,560"/>
+<area shape="rect" id="node25" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a80540146c32724f8fa82e01d3509831b" title="Throw an exception when trying to create a null object." alt="" coords="855,223,1105,267"/>
+<area shape="rect" id="node29" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#adc14e4b8f87c1e3eb745222b1149cafe" title="Insert a byte in the buffer." alt="" coords="872,289,1088,317"/>
+<area shape="rect" id="node32" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#aacb78915bf2b6c65bed9b7ce027dbbb1" title="Insert a float value into the buffer." alt="" coords="872,340,1088,384"/>
+<area shape="rect" id="node34" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a23f55f23b3735446a42fa2b6777e1788" title="Insert a boolean in the buffer." alt="" coords="872,407,1088,451"/>
+<area shape="rect" id="node36" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#af3d996c375bbb87546cecbda432690b3" title="Insert a string into the buffer." alt="" coords="872,473,1088,517"/>
+<area shape="rect" id="node38" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a6f4a1a62dd4749f61371f21dbc50f9b2" title="Insert a char into the buffer." alt="" coords="856,540,1104,568"/>
+<area shape="rect" id="node40" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#aec5e0fd46336d98802b102e55d83bca4" title="Insert a long into the buffer." alt="" coords="856,591,1104,619"/>
+<area shape="rect" id="node42" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a2d7af1ffb979404a5b75356f027f7db4" title="Insert a double value into the buffer." alt="" coords="872,641,1088,685"/>
+<area shape="rect" id="node44" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#aa9a56de7d4ceb9e49b1ceea0c2f476dc" title="Insert a short into the buffer." alt="" coords="872,708,1088,752"/>
+<area shape="rect" id="node47" href="$d1/dbf/interfacepopjava_1_1dataswaper_1_1_i_p_o_p_base_input.html#a0e5c669c0a3cc11e4a081bec9face9ae" title="Serialize an object into the buffer." alt="" coords="868,775,1092,819"/>
+<area shape="rect" id="node49" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#a97c514ee6237e0212dc9cd2452524b94" title="Writes an exception to the same log as writeDebugInfo." alt="" coords="876,841,1084,885"/>
+<area shape="rect" id="node51" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#ae7f2ed7cc0c12c4bc2c915a45f07aed2" title="Throw an exception when invoke a serialize method." alt="" coords="855,908,1105,952"/>
+<area shape="rect" id="node54" href="$d8/d56/interfacepopjava_1_1dataswaper_1_1_i_p_o_p_base.html#a06db4ef5e72d9c78e09aa3a560abeb82" title="Serialize an object into the buffer." alt="" coords="837,975,1123,1003"/>
+<area shape="rect" id="node27" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a2a44b5ea147ac6a2fa3421e69e0580ee" title="Create a new empty POPException." alt="" coords="1172,565,1385,609"/>
+</map>

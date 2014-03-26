@@ -1,0 +1,17 @@
+<map id="popjava.base.POPException.throwObjectBindException" name="popjava.base.POPException.throwObjectBindException">
+<area shape="rect" id="node3" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a67f79559ef3921f35ded7d239085d38e" title="Bind the interface with a parallel object (Broker&#45;side)" alt="" coords="308,122,577,150"/>
+<area shape="rect" id="node21" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#aa9aa09463ca0a7df7b7f7c4ac41f4db7" title="Recover a parallel object from the buffer." alt="" coords="339,206,547,250"/>
+<area shape="rect" id="node5" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a670a3e6965b871ec730975197826a0f6" title="Create an Interface by giving the access point of the parallel object." alt="" coords="664,5,904,49"/>
+<area shape="rect" id="node7" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a146d8020cf6d8f70fb956883a6a63b90" title="Deserialize an Interface from a buffer." alt="" coords="627,71,941,99"/>
+<area shape="rect" id="node9" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a89c5777bfa97b8a06890a50ffa8ab521" title="Allocate resource for the associated parallel object." alt="" coords="1524,154,1817,182"/>
+<area shape="rect" id="node15" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a5ad523bb09e6118d2f10dec936aea7c1" title="Bind the interface&#45;side with the broker&#45;side." alt="" coords="669,173,899,217"/>
+<area shape="rect" id="node11" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a3c35f0855508878a5f2800132b4c81f3" title="Construct a parallel object." alt="" coords="1877,206,2101,250"/>
+<area shape="rect" id="node13" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#a848c6ac9d0900c3966a3680fbcd9ecc2" title="Create a new object from specific class and object description." alt="" coords="2160,206,2368,250"/>
+<area shape="rect" id="node17" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#af0cfb1bd5e4ba5a02b2d221f1f42915a" title="Bind an Interface to her parallel object (her associated Broker)" alt="" coords="993,173,1204,217"/>
+<area shape="rect" id="node19" href="$d0/d31/classpopjava_1_1_pop_java.html#a8796c162a8c19dec6bd87f23c475af73" title="Static method used to create a parallel object from an existing access point." alt="" coords="1263,181,1468,209"/>
+<area shape="rect" id="node23" href="$d0/d31/classpopjava_1_1_pop_java.html#a88de7e0e117ffeeaa8ada9b046e91e88" title="Static method used to create a parallel object from the buffer." alt="" coords="681,239,887,283"/>
+<area shape="rect" id="node25" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a3f1d675b0b72ec640bb728e7953263a0" title="Retrieve an object from the buffer." alt="" coords="991,239,1207,283"/>
+<area shape="rect" id="node27" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a0f961c6a93c4abf18c95c1d259db0ac0" title="Retrieve an array from the buffer." alt="" coords="1257,235,1473,279"/>
+<area shape="rect" id="node33" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#aafb25fe0b03b9939e4155a147231f1f2" title="Invoke a method on an object." alt="" coords="1868,273,2111,301"/>
+<area shape="rect" id="node30" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a679981623098e87d0376c708a2b3c012" title="Retrieve an object reference from the buffer." alt="" coords="1537,235,1804,279"/>
+</map>

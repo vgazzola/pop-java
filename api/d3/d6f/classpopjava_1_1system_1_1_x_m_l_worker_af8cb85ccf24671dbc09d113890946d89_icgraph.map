@@ -1,0 +1,13 @@
+<map id="popjava.system.XMLWorker.isValid" name="popjava.system.XMLWorker.isValid">
+<area shape="rect" id="node3" href="$d2/d00/classpopjava_1_1buffer_1_1_buffer_factory_finder.html#ab453d209a38aa621f1e77b1cde7114d0" title="Read the plugin file." alt="" coords="289,5,503,49"/>
+<area shape="rect" id="node13" href="$d8/de5/classpopjava_1_1combox_1_1_combox_factory_finder.html#aff29a348b06752a14b3ad9196dd6c686" title="Load all the combox in the pop_combox.xml file." alt="" coords="275,71,517,115"/>
+<area shape="rect" id="node19" href="$de/df9/classpopjava_1_1system_1_1_configuration_worker.html#a49204f798b0e9dbb479f2ee5560ffd0a" title="Constructs a new ConfigurationWorker and retrieve POP&#45;Java base location." alt="" coords="284,138,508,182"/>
+<area shape="rect" id="node21" href="$d9/dce/classpopjava_1_1system_1_1_p_o_p_system.html#a5c3037396826b80fe58bbbb900261895" title="Initialize the CodeMgr by reading the object map and register all code location." alt="" coords="279,205,513,249"/>
+<area shape="rect" id="node5" href="$d2/d00/classpopjava_1_1buffer_1_1_buffer_factory_finder.html#abb555d4b374a60267b89e52da1fc7034" title="Default constructor." alt="" coords="595,5,808,49"/>
+<area shape="rect" id="node7" href="$d2/d00/classpopjava_1_1buffer_1_1_buffer_factory_finder.html#a1a0ec946ee4982a52f5d85ba725b7a6c" title="Get the unique instance of the BufferFactoryFinder." alt="" coords="900,5,1113,49"/>
+<area shape="rect" id="node9" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a147d1f54bf2c1b9694bdfa7d44b3b5f1" title="This method is responsible to handle the POP system call." alt="" coords="1176,13,1400,41"/>
+<area shape="rect" id="node11" href="$db/df2/classpopjava_1_1combox_1_1_combox_receive_request_socket.html#a1bfd85a2e53b2d33ef4679e59c24080d" title="Start the thread." alt="" coords="1449,5,1695,49"/>
+<area shape="rect" id="node15" href="$d8/de5/classpopjava_1_1combox_1_1_combox_factory_finder.html#a5132e031e48af847a7645630ec4acf25" title="Default constructor." alt="" coords="580,71,823,115"/>
+<area shape="rect" id="node17" href="$d8/de5/classpopjava_1_1combox_1_1_combox_factory_finder.html#a2f7f92f10060d0dcf90569444957db8c" title="Get the unique instance of the factory finder." alt="" coords="885,71,1128,115"/>
+<area shape="rect" id="node23" href="$d9/dce/classpopjava_1_1system_1_1_p_o_p_system.html#abb0efedffaeaff18fd8ce9cf6dda074b" title="Initialize the application scope services." alt="" coords="567,213,836,241"/>
+</map>

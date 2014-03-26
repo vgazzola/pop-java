@@ -1,0 +1,8 @@
+<map id="popjava.interfacebase.Interface.popResponse" name="popjava.interfacebase.Interface.popResponse">
+<area shape="rect" id="node3" href="$d5/d25/classpopjava_1_1base_1_1_message_header.html#ab529dce568bcfc31330655ee3af8bbf6" title="Get the request type." alt="" coords="320,5,571,49"/>
+<area shape="rect" id="node5" href="$d5/d25/classpopjava_1_1base_1_1_message_header.html#aeb5efcd5ce976a903b5fcad86d276ae4" title="Get the exception code stored in this message header." alt="" coords="320,71,571,115"/>
+<area shape="rect" id="node7" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#acd63b22a253c34bace228c50b41c23e3" title="Check error code and throw the right exception." alt="" coords="328,138,563,182"/>
+<area shape="rect" id="node9" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#af01cef9d073c60242d052030c9ac0a35" title="Deserialize an exception from the buffer." alt="" coords="620,146,905,174"/>
+<area shape="rect" id="node11" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#ad0e80c1d4dee5d7a840437094d068d85" title="Retrieve a int from the buffer." alt="" coords="955,117,1189,145"/>
+<area shape="rect" id="node13" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#aeb831832127976843dc5e8f52162fc73" title="Retrieve a string from the buffer." alt="" coords="964,167,1180,211"/>
+</map>

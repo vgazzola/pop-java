@@ -1,0 +1,9 @@
+<map id="popjava.buffer.BufferRaw.extractHeader" name="popjava.buffer.BufferRaw.extractHeader">
+<area shape="rect" id="node3" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#acbec4f8e867c29a9f60a7084665ee307" title="Retrieve a int from the buffer." alt="" coords="307,5,541,33"/>
+<area shape="rect" id="node5" href="$d5/d25/classpopjava_1_1base_1_1_message_header.html#abc8506744f8d78115624d7bbd4176c8f" title="Set the request type in the header message." alt="" coords="300,55,548,99"/>
+<area shape="rect" id="node7" href="$d5/d25/classpopjava_1_1base_1_1_message_header.html#a5d3adbb7cdf765b4e32f685b16a4a960" title="Set the class identifier in the message header." alt="" coords="300,122,548,166"/>
+<area shape="rect" id="node9" href="$d5/d25/classpopjava_1_1base_1_1_message_header.html#aabd60b2873ee0d2ecd8020fb5fe01229" title="Set the method identifier in the message header." alt="" coords="300,189,548,233"/>
+<area shape="rect" id="node11" href="$d5/d25/classpopjava_1_1base_1_1_message_header.html#aa07ec39d495fc0af0f6168c2b1d28cef" title="Set the semantic in the message header." alt="" coords="300,255,548,299"/>
+<area shape="rect" id="node13" href="$d5/d25/classpopjava_1_1base_1_1_message_header.html#a0b2f074cb72cab807af03539d63796e4" title="Set the exception code in this message header." alt="" coords="300,322,548,366"/>
+<area shape="rect" id="node15" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#ac324acf826a273e13cd0e692eec1a801" title="Get the current buffer&#39;s position." alt="" coords="299,389,549,417"/>
+</map>

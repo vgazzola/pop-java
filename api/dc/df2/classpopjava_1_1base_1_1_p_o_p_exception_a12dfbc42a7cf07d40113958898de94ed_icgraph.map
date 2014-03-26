@@ -1,0 +1,11 @@
+<map id="popjava.base.POPException.throwAccessPointNotAvailableException" name="popjava.base.POPException.throwAccessPointNotAvailableException">
+<area shape="rect" id="node3" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a67f79559ef3921f35ded7d239085d38e" title="Bind the interface with a parallel object (Broker&#45;side)" alt="" coords="311,97,580,125"/>
+<area shape="rect" id="node5" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a670a3e6965b871ec730975197826a0f6" title="Create an Interface by giving the access point of the parallel object." alt="" coords="667,5,907,49"/>
+<area shape="rect" id="node7" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a146d8020cf6d8f70fb956883a6a63b90" title="Deserialize an Interface from a buffer." alt="" coords="629,71,944,99"/>
+<area shape="rect" id="node9" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a89c5777bfa97b8a06890a50ffa8ab521" title="Allocate resource for the associated parallel object." alt="" coords="640,122,933,150"/>
+<area shape="rect" id="node15" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a5ad523bb09e6118d2f10dec936aea7c1" title="Bind the interface&#45;side with the broker&#45;side." alt="" coords="672,174,901,218"/>
+<area shape="rect" id="node11" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a3c35f0855508878a5f2800132b4c81f3" title="Construct a parallel object." alt="" coords="993,111,1217,155"/>
+<area shape="rect" id="node13" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#a848c6ac9d0900c3966a3680fbcd9ecc2" title="Create a new object from specific class and object description." alt="" coords="1267,111,1475,155"/>
+<area shape="rect" id="node17" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#af0cfb1bd5e4ba5a02b2d221f1f42915a" title="Bind an Interface to her parallel object (her associated Broker)" alt="" coords="1000,178,1211,222"/>
+<area shape="rect" id="node19" href="$d0/d31/classpopjava_1_1_pop_java.html#a8796c162a8c19dec6bd87f23c475af73" title="Static method used to create a parallel object from an existing access point." alt="" coords="1268,186,1473,214"/>
+</map>

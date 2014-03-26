@@ -1,0 +1,25 @@
+<map id="popjava.interfacebase.Interface.allocate" name="popjava.interfacebase.Interface.allocate">
+<area shape="rect" id="node3" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a2e088de834539fde1ddd928e69eb41ce" title="Get the OD hostname value." alt="" coords="384,5,587,49"/>
+<area shape="rect" id="node5" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a0cdc6a6181b1340358ed0bb0a742db7a" title="Get he OD platform value." alt="" coords="384,71,587,115"/>
+<area shape="rect" id="node7" href="$d0/d31/classpopjava_1_1_pop_java.html#a6cf9ea02dc61f69fc7b89f76cad86973" title="Static method used to create a new parallel object by passing an object description." alt="" coords="383,138,588,166"/>
+<area shape="rect" id="node11" href="$d5/ddf/classpopjava_1_1dataswaper_1_1_p_o_p_string.html#a1f7218e609c16163db8332fd53bdb253" title="Get the current value of this object." alt="" coords="357,189,613,233"/>
+<area shape="rect" id="node13" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a86d1bf49771c2aaee1d9a68c3b785359" title="Set the OD platform value." alt="" coords="711,506,913,550"/>
+<area shape="rect" id="node15" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a805de95799e89e40b9c68e6e99954ef0" title="Get the OD JobUrl value." alt="" coords="384,322,587,366"/>
+<area shape="rect" id="node17" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#a29465e155b3c616cec9db409b2aa02de" title="Add an access point by a formatted string." alt="" coords="371,255,600,299"/>
+<area shape="rect" id="node23" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#a471ebd6b882b05e2e1fb5479fa7e021b" title="Check if the current object is empty." alt="" coords="371,439,600,483"/>
+<area shape="rect" id="node25" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#ac2f968609c2ff8241cd206fa54d999d5" title="Write a new debug information line in the file." alt="" coords="381,506,589,550"/>
+<area shape="rect" id="node27" href="$d2/ddb/classpopjava_1_1serviceadapter_1_1_p_o_p_job_service.html#a0b24c55f6670ef20546a3d05ff1d1e35" title="Ask the JobCoreService service to create a new parallel object." alt="" coords="369,573,601,617"/>
+<area shape="rect" id="node29" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a57bb39a9a61f086f557e086ab24f4fc4" title="Exit method." alt="" coords="377,639,593,667"/>
+<area shape="rect" id="node31" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#addb62e672e40faf645c2991c728f23ca" title="Get the access point at specified index." alt="" coords="371,690,600,734"/>
+<area shape="rect" id="node33" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#aada5b68328a7d47f553326274c9494f0" title="Set the host form this access point." alt="" coords="384,757,587,801"/>
+<area shape="rect" id="node35" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a67f79559ef3921f35ded7d239085d38e" title="Bind the interface with a parallel object (Broker&#45;side)" alt="" coords="351,823,620,851"/>
+<area shape="rect" id="node9" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#a692ee17d46394a4ce0257a1f3bbdf171" title="Create a new object from the factory." alt="" coords="708,130,916,174"/>
+<area shape="rect" id="node19" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a770d4f1f2332f5fc5c4dd149fbb3856d" title="Create an access point from a formatted string." alt="" coords="711,255,913,299"/>
+<area shape="rect" id="node21" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a4249544673f62780bc764e539e32f4f8" title="Create a new AccessPoint." alt="" coords="1009,255,1212,299"/>
+<area shape="rect" id="node37" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a12dfbc42a7cf07d40113958898de94ed" title="Throw an exception when the access point of an object is not available." alt="" coords="685,882,939,926"/>
+<area shape="rect" id="node41" href="$de/d31/classpopjava_1_1base_1_1_bind_status.html#abe41cc75da4eb92f6c674a9168f236f5" title="Get the code associated with this bind status." alt="" coords="687,949,937,977"/>
+<area shape="rect" id="node43" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a71556e04d30ef78674731a89ff6ee4e3" title="Return the object description associated with this interface." alt="" coords="671,698,953,726"/>
+<area shape="rect" id="node46" href="$de/d31/classpopjava_1_1base_1_1_bind_status.html#a87bbeb6395fb6b5843915863f285875a" title="Get the platform associated with this bind status." alt="" coords="704,749,920,793"/>
+<area shape="rect" id="node48" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a28531ddb7ee1a55efad3bf5466689636" title="Throw an exception when the object binding is not a success." alt="" coords="687,815,937,859"/>
+<area shape="rect" id="node39" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a2a44b5ea147ac6a2fa3421e69e0580ee" title="Create a new empty POPException." alt="" coords="1004,849,1217,893"/>
+</map>

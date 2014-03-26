@@ -1,0 +1,4 @@
+<map id="popjava.base.MessageHeader.getMethodId" name="popjava.base.MessageHeader.getMethodId">
+<area shape="rect" id="node3" href="$d5/d25/classpopjava_1_1base_1_1_message_header.html#ade0cccc32e657c9a4f3850a47608eaa8" title="Format message header as a string value." alt="" coords="305,5,545,49"/>
+<area shape="rect" id="node5" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#acec3307d1acf8270dd13bb0312c01b0c" title="Pack the message header into the buffer." alt="" coords="312,71,539,115"/>
+</map>

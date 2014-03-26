@@ -1,0 +1,10 @@
+<map id="popjava.base.POPObject.hasDestructor" name="popjava.base.POPObject.hasDestructor">
+<area shape="rect" id="node3" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a61420ea2c4afdf01d77e89b6ba023e62" title="Initialize the method identifiers of a POPObject." alt="" coords="277,5,525,49"/>
+<area shape="rect" id="node7" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#af0658cd18a86243caf83cb8f4d8f0f63" title="Set the destructor value." alt="" coords="293,71,509,115"/>
+<area shape="rect" id="node9" href="$d5/db5/classpopjava_1_1serviceadapter_1_1_p_o_p_app_service.html#aa020ee363e521ab63f87408def96529a" title="Default constructor of POPAppService." alt="" coords="284,138,519,182"/>
+<area shape="rect" id="node11" href="$dd/d98/classpopjava_1_1serviceadapter_1_1_p_o_p_code_manager.html#a01baf56a072319bc6d180a7e0262ae2a" title="Default constructor of POPCodeManager." alt="" coords="279,205,524,249"/>
+<area shape="rect" id="node13" href="$da/d33/classpopjava_1_1serviceadapter_1_1_p_o_p_job_manager.html#a4126dcd57a818be6379062dd140c39b5" title="Default constructor of POPJobManager." alt="" coords="285,271,517,315"/>
+<area shape="rect" id="node15" href="$df/da3/classpopjava_1_1serviceadapter_1_1_p_o_p_object_monitor.html#a94de6b2b063914bdaec1d3bcf014d642" title="Default constructor of POPJobManager." alt="" coords="275,338,528,382"/>
+<area shape="rect" id="node17" href="$d9/da5/classpopjava_1_1serviceadapter_1_1_p_o_p_remote_log.html#a035379909b5eb9af20db55fd93e3f0a8" title="Default constructor of POPRemoteLog." alt="" coords="271,405,532,449"/>
+<area shape="rect" id="node5" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a62a11e83189111dabd8ea66b551f404a" title="Creates a new instance of POPObject." alt="" coords="581,13,843,41"/>
+</map>

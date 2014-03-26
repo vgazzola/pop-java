@@ -1,0 +1,9 @@
+<map id="popjava.broker.Broker.setState" name="popjava.broker.Broker.setState">
+<area shape="rect" id="node3" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a0a84808994ff98f602175eac1fb03366" title="Kill the broker and its associated object." alt="" coords="255,5,447,33"/>
+<area shape="rect" id="node5" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a0239d325af8816f3f698c13442e6f058" title="Main loop of this broker." alt="" coords="248,55,453,99"/>
+<area shape="rect" id="node9" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a32316abd4d2d2a6b3307a329e3affdef" title="Decrement de connection counter and exit the broker if there is no more connection." alt="" coords="256,122,445,166"/>
+<area shape="rect" id="node7" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af11c36af52875f3bfb77fd0390f0f6d1" title="Entry point for the Broker." alt="" coords="523,63,728,91"/>
+<area shape="rect" id="node11" href="$db/df2/classpopjava_1_1combox_1_1_combox_receive_request_socket.html#ad9ef14cb2679aff672afd8539b4f51c7" title="Close the current connection." alt="" coords="503,122,748,166"/>
+<area shape="rect" id="node13" href="$db/df2/classpopjava_1_1combox_1_1_combox_receive_request_socket.html#a1bfd85a2e53b2d33ef4679e59c24080d" title="Start the thread." alt="" coords="799,89,1044,133"/>
+<area shape="rect" id="node15" href="$db/df2/classpopjava_1_1combox_1_1_combox_receive_request_socket.html#adba178e6d61e3adf25923041eb249cfe" title="Method called before destruction of the instance." alt="" coords="799,155,1044,199"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="popjava.buffer.POPBuffer.checkAndThrow" name="popjava.buffer.POPBuffer.checkAndThrow">
+<area shape="rect" id="node3" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#af01cef9d073c60242d052030c9ac0a35" title="Deserialize an exception from the buffer." alt="" coords="289,34,575,62"/>
+<area shape="rect" id="node5" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#ad0e80c1d4dee5d7a840437094d068d85" title="Retrieve a int from the buffer." alt="" coords="624,5,859,33"/>
+<area shape="rect" id="node7" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#aeb831832127976843dc5e8f52162fc73" title="Retrieve a string from the buffer." alt="" coords="633,55,849,99"/>
+</map>

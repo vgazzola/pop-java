@@ -1,0 +1,13 @@
+<map id="popjava.system.POPSystem.getHostIP" name="popjava.system.POPSystem.getHostIP">
+<area shape="rect" id="node3" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#ac4a43cf87de086bd41d777223094ccb1" title="Create a new POPAccessPoint an make some initialization tasks." alt="" coords="312,5,541,49"/>
+<area shape="rect" id="node5" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a8c309e7ce752ddea40bd3e33f5658870" title="Initialization of the broker&#45;side." alt="" coords="312,71,541,99"/>
+<area shape="rect" id="node9" href="$d2/d95/classpopjava_1_1combox_1_1_combox_allocate_socket.html#acc0f80c8d5206d2897d31923d6a5559f" title="Create a new instance of the ComboxAllocateSocket." alt="" coords="303,122,551,166"/>
+<area shape="rect" id="node11" href="$d2/d95/classpopjava_1_1combox_1_1_combox_allocate_socket.html#a00cde3e692894edf69c52d6cd7c0fa06" title="Get URL of this socket." alt="" coords="303,189,551,233"/>
+<area shape="rect" id="node13" href="$d1/d54/classpopjava_1_1combox_1_1_combox_server_socket.html#ad8311b8b4c8d76b182f3c9e712b47e63" title="Get the URL of the combox." alt="" coords="308,255,545,299"/>
+<area shape="rect" id="node15" href="$d1/d54/classpopjava_1_1combox_1_1_combox_server_socket.html#ad8ed3d92a898438a87b87efe96992a42" title="Create and start the combox server." alt="" coords="308,322,545,366"/>
+<area shape="rect" id="node19" href="$d9/dce/classpopjava_1_1system_1_1_p_o_p_system.html#abb0efedffaeaff18fd8ce9cf6dda074b" title="Initialize the application scope services." alt="" coords="292,389,561,417"/>
+<area shape="rect" id="node21" href="$d9/dce/classpopjava_1_1system_1_1_p_o_p_system.html#afc31769b23cf7fb861ccc16aaef5f993" title="Start the application scope services." alt="" coords="299,439,555,483"/>
+<area shape="rect" id="node23" href="$d6/da6/classpopjava_1_1util_1_1_util.html#a5cc05a8f97a0ae3308050c933b26518c" title="Check if the contact string is the local host." alt="" coords="337,506,516,534"/>
+<area shape="rect" id="node7" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af11c36af52875f3bfb77fd0390f0f6d1" title="Entry point for the Broker." alt="" coords="627,71,832,99"/>
+<area shape="rect" id="node17" href="$d1/d54/classpopjava_1_1combox_1_1_combox_server_socket.html#a32bbffbcee4008394212e58b08748010" title="Default constructor." alt="" coords="611,322,848,366"/>
+</map>

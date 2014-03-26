@@ -1,0 +1,6 @@
+<map id="popjava.codemanager.POPJavaAppService" name="popjava.codemanager.POPJavaAppService">
+<area shape="rect" id="node2" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html" title="This class is the base class of all POP&#45;Java parallel classes." alt="" coords="5,654,213,1119"/>
+<area shape="rect" id="node4" href="$d8/d56/interfacepopjava_1_1dataswaper_1_1_i_p_o_p_base.html" title="This interface declare the needed method for the serialization and the deserialization of an object..." alt="" coords="19,6,243,103"/>
+<area shape="rect" id="node6" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html" title="This class represents the object description for a parallel object." alt="" coords="125,155,328,589"/>
+<area shape="rect" id="node9" href="$dd/d13/interfacepopjava_1_1codemanager_1_1_app_service.html" title="{popjava.codemanager.AppService\n||+ registerCode()\l+ queryCode()\l+ getPlatform()\l+ getAccessPoint()\l+ getPOPCAppID()\l+ exit()\l}" alt="" coords="237,806,491,967"/>
+</map>

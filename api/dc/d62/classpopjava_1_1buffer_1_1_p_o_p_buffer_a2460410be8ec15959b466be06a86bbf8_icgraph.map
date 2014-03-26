@@ -1,0 +1,19 @@
+<map id="popjava.buffer.POPBuffer.putInt" name="popjava.buffer.POPBuffer.putInt">
+<area shape="rect" id="node3" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#acde7b4ab5519557e8a5c18fa56cf95d3" title="Serialize an exception into the buffer." alt="" coords="300,13,569,41"/>
+<area shape="rect" id="node7" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#abe96414f79c1737b6f1efb651f5e5bae" title="Serialize the object description into the buffer." alt="" coords="333,63,536,107"/>
+<area shape="rect" id="node9" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#ad6814aa55725095238782dee07ecf374" title="Serialization of the Interface into the buffer." alt="" coords="631,130,927,158"/>
+<area shape="rect" id="node11" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#a67465528117b27620f76eabd846deb4b" title="Serialize the object into the buffer to be sent over the network." alt="" coords="320,181,549,225"/>
+<area shape="rect" id="node13" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af11c36af52875f3bfb77fd0390f0f6d1" title="Entry point for the Broker." alt="" coords="676,195,881,223"/>
+<area shape="rect" id="node16" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a147d1f54bf2c1b9694bdfa7d44b3b5f1" title="This method is responsible to handle the POP system call." alt="" coords="323,298,547,326"/>
+<area shape="rect" id="node21" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a2af5dab16575ec21650a4bcdae86ee28" title="Insert an object into the buffer." alt="" coords="327,450,543,494"/>
+<area shape="rect" id="node23" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a441f40890f1f2a0f89907180fb18ed12" title="Insert an array into the buffer." alt="" coords="671,443,887,487"/>
+<area shape="rect" id="node34" href="$df/d44/classpopjava_1_1combox_1_1_combox_socket.html#a02a70feafc467cdca7dd70a45b668e18" title="Receive buffer from the other side." alt="" coords="289,349,580,377"/>
+<area shape="rect" id="node41" href="$df/d63/classpopjava_1_1dataswaper_1_1_object_description_input.html#a042f3a0c6fa26085da63c9a061d61dd0" title="Serialize the object description into the buffer." alt="" coords="332,517,537,561"/>
+<area shape="rect" id="node5" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a9a12d1efddb63496aeab60b9e24939ea" title="Send exception to the interface&#45;side." alt="" coords="676,5,881,49"/>
+<area shape="rect" id="node18" href="$db/df2/classpopjava_1_1combox_1_1_combox_receive_request_socket.html#a1bfd85a2e53b2d33ef4679e59c24080d" title="Start the thread." alt="" coords="979,281,1224,325"/>
+<area shape="rect" id="node26" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a1b3b2dd7d6235aba203989cc006d97c4" title="Insert an object reference into the buffer." alt="" coords="976,469,1227,513"/>
+<area shape="rect" id="node29" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a3c35f0855508878a5f2800132b4c81f3" title="Construct a parallel object." alt="" coords="667,561,891,605"/>
+<area shape="rect" id="node31" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#a848c6ac9d0900c3966a3680fbcd9ecc2" title="Create a new object from specific class and object description." alt="" coords="997,561,1205,605"/>
+<area shape="rect" id="node36" href="$d2/d95/classpopjava_1_1combox_1_1_combox_allocate_socket.html#aac761129f38b37ddc417ff6591fa8567" title="Receive a new message from the other&#45;side." alt="" coords="655,377,903,421"/>
+<area shape="rect" id="node38" href="$db/df2/classpopjava_1_1combox_1_1_combox_receive_request_socket.html#ae3b220bb874cd8035683acee6ade5181" title="Get request from the buffer." alt="" coords="656,310,901,354"/>
+</map>

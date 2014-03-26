@@ -1,0 +1,5 @@
+<map id="popjava.broker.Request.isSequential" name="popjava.broker.Request.isSequential">
+<area shape="rect" id="node3" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a974c55ed952133f923edc490e06efe2d" title="Returns true if this request is a concurrent request, false otherwise." alt="" coords="252,5,447,49"/>
+<area shape="rect" id="node7" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a05239247c7d77c868022919b54b19821" title="Returns true if this request is a mutex request, false otherwise." alt="" coords="252,71,447,115"/>
+<area shape="rect" id="node5" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a34e3da3c97f6be3d3e137c9f34340be7" title="Get the semantic of the current request." alt="" coords="496,38,704,82"/>
+</map>

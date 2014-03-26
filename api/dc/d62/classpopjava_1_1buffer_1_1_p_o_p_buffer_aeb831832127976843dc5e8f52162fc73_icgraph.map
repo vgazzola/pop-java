@@ -1,0 +1,19 @@
+<map id="popjava.buffer.POPBuffer.getString" name="popjava.buffer.POPBuffer.getString">
+<area shape="rect" id="node3" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#af01cef9d073c60242d052030c9ac0a35" title="Deserialize an exception from the buffer." alt="" coords="283,75,568,103"/>
+<area shape="rect" id="node19" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#afa9fda8795fc9266fba23db6ed6e9f35" title="Deserialize the object description from the buffer." alt="" coords="324,197,527,241"/>
+<area shape="rect" id="node23" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#ae07f6f515f1751af0ad3d7fa0fee6068" title="Deserialize the object from the buffer received from the network." alt="" coords="311,263,540,307"/>
+<area shape="rect" id="node26" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a147d1f54bf2c1b9694bdfa7d44b3b5f1" title="This method is responsible to handle the POP system call." alt="" coords="313,330,537,358"/>
+<area shape="rect" id="node30" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a3f1d675b0b72ec640bb728e7953263a0" title="Retrieve an object from the buffer." alt="" coords="317,130,533,174"/>
+<area shape="rect" id="node40" href="$d5/ddf/classpopjava_1_1dataswaper_1_1_p_o_p_string.html#a22fa4ab9d9ee16121897140f26de486d" title="Deserilize the POPString from the buffer." alt="" coords="272,381,579,409"/>
+<area shape="rect" id="node5" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#acd63b22a253c34bace228c50b41c23e3" title="Check error code and throw the right exception." alt="" coords="667,63,901,107"/>
+<area shape="rect" id="node7" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a0bb9c7f286ef2626d36006ccd0c286a0" title="Receive response from the broker&#45;side." alt="" coords="991,63,1257,107"/>
+<area shape="rect" id="node9" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a26c9ca11e866f9275a27a1b5c68bcba5" title="Check if the parallel object associated with this interface is still alive." alt="" coords="1312,5,1563,49"/>
+<area shape="rect" id="node11" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a6c25d39b2ef15832f91d5a7a28b5d4c7" title="Kill the associated parallel object." alt="" coords="1308,71,1567,99"/>
+<area shape="rect" id="node13" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a3c35f0855508878a5f2800132b4c81f3" title="Construct a parallel object." alt="" coords="1325,122,1549,166"/>
+<area shape="rect" id="node17" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#aafb25fe0b03b9939e4155a147231f1f2" title="Invoke a method on an object." alt="" coords="1316,189,1559,217"/>
+<area shape="rect" id="node15" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#a848c6ac9d0900c3966a3680fbcd9ecc2" title="Create a new object from specific class and object description." alt="" coords="1616,122,1824,166"/>
+<area shape="rect" id="node21" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a146d8020cf6d8f70fb956883a6a63b90" title="Deserialize an Interface from a buffer." alt="" coords="627,259,941,287"/>
+<area shape="rect" id="node28" href="$db/df2/classpopjava_1_1combox_1_1_combox_receive_request_socket.html#a1bfd85a2e53b2d33ef4679e59c24080d" title="Start the thread." alt="" coords="661,322,907,366"/>
+<area shape="rect" id="node32" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a0f961c6a93c4abf18c95c1d259db0ac0" title="Retrieve an array from the buffer." alt="" coords="676,130,892,174"/>
+<area shape="rect" id="node35" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a679981623098e87d0376c708a2b3c012" title="Retrieve an object reference from the buffer." alt="" coords="991,130,1257,174"/>
+</map>

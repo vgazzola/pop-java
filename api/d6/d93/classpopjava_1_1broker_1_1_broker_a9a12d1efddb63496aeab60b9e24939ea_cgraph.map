@@ -1,0 +1,7 @@
+<map id="popjava.broker.Broker.sendException" name="popjava.broker.Broker.sendException">
+<area shape="rect" id="node3" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a32bee66f6d0ccd9ceca2d03450276c88" title="Associate a message header with this buffer." alt="" coords="288,5,501,49"/>
+<area shape="rect" id="node7" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#acde7b4ab5519557e8a5c18fa56cf95d3" title="Serialize an exception into the buffer." alt="" coords="260,71,529,99"/>
+<area shape="rect" id="node5" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a648397150a04edd297f184702cc8b00f" title="Erase the buffer and set the pointer to the beginning." alt="" coords="583,13,809,41"/>
+<area shape="rect" id="node9" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a2460410be8ec15959b466be06a86bbf8" title="Insert a int into the buffer." alt="" coords="579,67,813,95"/>
+<area shape="rect" id="node11" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#af3d996c375bbb87546cecbda432690b3" title="Insert a string into the buffer." alt="" coords="588,118,804,162"/>
+</map>

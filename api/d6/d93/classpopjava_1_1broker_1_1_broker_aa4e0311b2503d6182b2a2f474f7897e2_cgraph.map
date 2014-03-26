@@ -1,0 +1,4 @@
+<map id="popjava.broker.Broker.getState" name="popjava.broker.Broker.getState">
+<area shape="rect" id="node3" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a78d5dd41336979e5347bbc250f10f13b" title="Get information about the deamon mode of this broker." alt="" coords="248,5,432,49"/>
+<area shape="rect" id="node5" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a4d123c54ea4e145103ca317d614d10ba" title="Specify if the parallel object is running like a deamon." alt="" coords="480,5,683,49"/>
+</map>

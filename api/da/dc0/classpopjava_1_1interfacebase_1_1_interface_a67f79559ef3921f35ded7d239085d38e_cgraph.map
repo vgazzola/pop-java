@@ -1,0 +1,9 @@
+<map id="popjava.interfacebase.Interface.bind" name="popjava.interfacebase.Interface.bind">
+<area shape="rect" id="node3" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a12dfbc42a7cf07d40113958898de94ed" title="Throw an exception when the access point of an object is not available." alt="" coords="341,5,595,49"/>
+<area shape="rect" id="node7" href="$de/d31/classpopjava_1_1base_1_1_bind_status.html#abe41cc75da4eb92f6c674a9168f236f5" title="Get the code associated with this bind status." alt="" coords="343,71,593,99"/>
+<area shape="rect" id="node9" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a71556e04d30ef78674731a89ff6ee4e3" title="Return the object description associated with this interface." alt="" coords="327,122,609,150"/>
+<area shape="rect" id="node11" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a86d1bf49771c2aaee1d9a68c3b785359" title="Set the OD platform value." alt="" coords="367,173,569,217"/>
+<area shape="rect" id="node13" href="$de/d31/classpopjava_1_1base_1_1_bind_status.html#a87bbeb6395fb6b5843915863f285875a" title="Get the platform associated with this bind status." alt="" coords="360,239,576,283"/>
+<area shape="rect" id="node15" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a28531ddb7ee1a55efad3bf5466689636" title="Throw an exception when the object binding is not a success." alt="" coords="343,306,593,350"/>
+<area shape="rect" id="node5" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a2a44b5ea147ac6a2fa3421e69e0580ee" title="Create a new empty POPException." alt="" coords="660,155,873,199"/>
+</map>

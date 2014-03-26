@@ -1,0 +1,25 @@
+<map id="popjava.broker.Broker.popCall" name="popjava.broker.Broker.popCall">
+<area shape="rect" id="node3" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a0c40ddc2ff2cb723e64fb7fafbb062f7" title="Get the method identifier of this request." alt="" coords="292,5,500,49"/>
+<area shape="rect" id="node5" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a0d3f5610b19e3971aa545ffb9e90d7b8" title="Get the associated buffer." alt="" coords="292,71,500,115"/>
+<area shape="rect" id="node7" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#abe8571fbc2a0d443ae5d484af23574bd" title="Get the associated combox." alt="" coords="292,138,500,182"/>
+<area shape="rect" id="node9" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a34e3da3c97f6be3d3e137c9f34340be7" title="Get the semantic of the current request." alt="" coords="292,205,500,249"/>
+<area shape="rect" id="node11" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a32bee66f6d0ccd9ceca2d03450276c88" title="Associate a message header with this buffer." alt="" coords="289,271,503,315"/>
+<area shape="rect" id="node15" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a2460410be8ec15959b466be06a86bbf8" title="Insert a int into the buffer." alt="" coords="279,338,513,366"/>
+<area shape="rect" id="node17" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#af3d996c375bbb87546cecbda432690b3" title="Insert a string into the buffer." alt="" coords="288,389,504,433"/>
+<area shape="rect" id="node19" href="$d9/dce/classpopjava_1_1system_1_1_p_o_p_system.html#a8af24632f2b6f8289746ea84e338cd1c" title="Get the system platform." alt="" coords="279,455,513,499"/>
+<area shape="rect" id="node21" href="$d2/d00/classpopjava_1_1buffer_1_1_buffer_factory_finder.html#a1a0ec946ee4982a52f5d85ba725b7a6c" title="Get the unique instance of the BufferFactoryFinder." alt="" coords="289,522,503,566"/>
+<area shape="rect" id="node35" href="$d2/d00/classpopjava_1_1buffer_1_1_buffer_factory_finder.html#a46d0af45a61c27a20b8a771424a79a9e" title="Get a formatted string of supporting buffer." alt="" coords="289,589,503,633"/>
+<area shape="rect" id="node37" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a2698a44198a121ce2f899728b82d79e4" title="Send response to the interface&#45;side." alt="" coords="293,655,499,699"/>
+<area shape="rect" id="node39" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#aeb831832127976843dc5e8f52162fc73" title="Retrieve a string from the buffer." alt="" coords="288,722,504,766"/>
+<area shape="rect" id="node41" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a2c66d497c8237073b7352025b73e1f56" title="Look for a specific encoding." alt="" coords="297,789,495,833"/>
+<area shape="rect" id="node43" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#ac736d8ea1a98d2b655defc912ecd2132" title="Set an associated buffer." alt="" coords="293,855,499,899"/>
+<area shape="rect" id="node45" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a23f55f23b3735446a42fa2b6777e1788" title="Insert a boolean in the buffer." alt="" coords="288,922,504,966"/>
+<area shape="rect" id="node47" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a29354b36959b47441283278678952175" title="Ask if the object can be killed." alt="" coords="279,989,513,1017"/>
+<area shape="rect" id="node13" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a648397150a04edd297f184702cc8b00f" title="Erase the buffer and set the pointer to the beginning." alt="" coords="564,279,791,307"/>
+<area shape="rect" id="node23" href="$d2/d00/classpopjava_1_1buffer_1_1_buffer_factory_finder.html#abb555d4b374a60267b89e52da1fc7034" title="Default constructor." alt="" coords="571,522,784,566"/>
+<area shape="rect" id="node25" href="$d8/d00/classpopjava_1_1buffer_1_1_buffer_raw_factory.html#a9dd22dd0e7c3b44988683c6c20c085c0" title="Get the identifier of this factory." alt="" coords="897,422,1089,466"/>
+<area shape="rect" id="node27" href="$d6/d68/classpopjava_1_1buffer_1_1_buffer_x_d_r_factory.html#a3d2428819483043cab47b53a0495b508" title="Get the identifier of this buffer factory." alt="" coords="860,489,1127,533"/>
+<area shape="rect" id="node29" href="$d2/dd2/classpopjava_1_1system_1_1_p_o_p_java_configuration.html#adebba745e11de46a8b9568e8bd8b5bb9" title="Retrieve the POP&#45;Java plugin location." alt="" coords="840,555,1147,599"/>
+<area shape="rect" id="node31" href="$d2/d00/classpopjava_1_1buffer_1_1_buffer_factory_finder.html#ab453d209a38aa621f1e77b1cde7114d0" title="Read the plugin file." alt="" coords="887,622,1100,666"/>
+<area shape="rect" id="node33" href="$d3/d6f/classpopjava_1_1system_1_1_x_m_l_worker.html#af8cb85ccf24671dbc09d113890946d89" title="Validate an XML file with an XML schema." alt="" coords="1195,622,1416,666"/>
+</map>

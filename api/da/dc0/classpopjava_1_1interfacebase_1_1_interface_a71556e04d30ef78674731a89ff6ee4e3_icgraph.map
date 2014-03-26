@@ -1,0 +1,11 @@
+<map id="popjava.interfacebase.Interface.getOD" name="popjava.interfacebase.Interface.getOD">
+<area shape="rect" id="node3" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a67f79559ef3921f35ded7d239085d38e" title="Bind the interface with a parallel object (Broker&#45;side)" alt="" coords="340,97,609,125"/>
+<area shape="rect" id="node5" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a670a3e6965b871ec730975197826a0f6" title="Create an Interface by giving the access point of the parallel object." alt="" coords="696,5,936,49"/>
+<area shape="rect" id="node7" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a146d8020cf6d8f70fb956883a6a63b90" title="Deserialize an Interface from a buffer." alt="" coords="659,71,973,99"/>
+<area shape="rect" id="node9" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a89c5777bfa97b8a06890a50ffa8ab521" title="Allocate resource for the associated parallel object." alt="" coords="669,122,963,150"/>
+<area shape="rect" id="node15" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a5ad523bb09e6118d2f10dec936aea7c1" title="Bind the interface&#45;side with the broker&#45;side." alt="" coords="701,174,931,218"/>
+<area shape="rect" id="node11" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a3c35f0855508878a5f2800132b4c81f3" title="Construct a parallel object." alt="" coords="1023,111,1247,155"/>
+<area shape="rect" id="node13" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#a848c6ac9d0900c3966a3680fbcd9ecc2" title="Create a new object from specific class and object description." alt="" coords="1296,111,1504,155"/>
+<area shape="rect" id="node17" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#af0cfb1bd5e4ba5a02b2d221f1f42915a" title="Bind an Interface to her parallel object (her associated Broker)" alt="" coords="1029,178,1240,222"/>
+<area shape="rect" id="node19" href="$d0/d31/classpopjava_1_1_pop_java.html#a8796c162a8c19dec6bd87f23c475af73" title="Static method used to create a parallel object from an existing access point." alt="" coords="1297,186,1503,214"/>
+</map>

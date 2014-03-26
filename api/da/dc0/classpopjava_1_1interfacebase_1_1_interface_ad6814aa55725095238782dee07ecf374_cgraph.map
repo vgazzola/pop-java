@@ -1,0 +1,9 @@
+<map id="popjava.interfacebase.Interface.serialize" name="popjava.interfacebase.Interface.serialize">
+<area shape="rect" id="node3" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#abe96414f79c1737b6f1efb651f5e5bae" title="Serialize the object description into the buffer." alt="" coords="367,138,569,182"/>
+<area shape="rect" id="node11" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a2460410be8ec15959b466be06a86bbf8" title="Insert a int into the buffer." alt="" coords="632,271,867,299"/>
+<area shape="rect" id="node13" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#a67465528117b27620f76eabd846deb4b" title="Serialize the object into the buffer to be sent over the network." alt="" coords="353,205,583,249"/>
+<area shape="rect" id="node5" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#aacb78915bf2b6c65bed9b7ce027dbbb1" title="Insert a float value into the buffer." alt="" coords="641,5,857,49"/>
+<area shape="rect" id="node7" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a23f55f23b3735446a42fa2b6777e1788" title="Insert a boolean in the buffer." alt="" coords="641,138,857,182"/>
+<area shape="rect" id="node9" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#af3d996c375bbb87546cecbda432690b3" title="Insert a string into the buffer." alt="" coords="641,71,857,115"/>
+<area shape="rect" id="node16" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#ac12c6c8a16cd4f8078cd657491da799b" title="Format the POPAccessPoint to a string value." alt="" coords="635,205,864,249"/>
+</map>

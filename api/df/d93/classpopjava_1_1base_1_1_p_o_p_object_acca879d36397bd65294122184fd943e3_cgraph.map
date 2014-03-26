@@ -1,0 +1,5 @@
+<map id="popjava.base.POPObject.getPOPCReference" name="popjava.base.POPObject.getPOPCReference">
+<area shape="rect" id="node3" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a3381e2502aa653bce0c0197f8496aba6" title="Retrieve the access point of the parallel object." alt="" coords="276,5,489,49"/>
+<area shape="rect" id="node7" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#ac12c6c8a16cd4f8078cd657491da799b" title="Format the POPAccessPoint to a string value." alt="" coords="268,71,497,115"/>
+<area shape="rect" id="node5" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#ab33436012f228d4ee96cde1fccf83e21" title="Return the access point of this broker." alt="" coords="547,5,741,49"/>
+</map>

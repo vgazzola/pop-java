@@ -1,0 +1,5 @@
+<map id="popjava.buffer.POPBuffer" name="popjava.buffer.POPBuffer">
+<area shape="rect" id="node5" href="$dc/d6f/classpopjava_1_1buffer_1_1_buffer_plugin.html" title="This class defined the interface for each new buffer plug&#45;in." alt="" coords="5,475,211,717"/>
+<area shape="rect" id="node7" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html" title="This class is a RAW implementation of the buffer abstract class." alt="" coords="235,459,427,733"/>
+<area shape="rect" id="node9" href="$d1/d42/classpopjava_1_1buffer_1_1_buffer_x_d_r.html" title="This class is a XDR extension of the BufferRAW class." alt="" coords="235,782,427,911"/>
+</map>

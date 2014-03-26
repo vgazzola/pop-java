@@ -1,0 +1,38 @@
+<map id="popjava.interfacebase.Interface.deserialize" name="popjava.interfacebase.Interface.deserialize">
+<area shape="rect" id="node3" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#afa9fda8795fc9266fba23db6ed6e9f35" title="Deserialize the object description from the buffer." alt="" coords="403,789,605,833"/>
+<area shape="rect" id="node11" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#ad0e80c1d4dee5d7a840437094d068d85" title="Retrieve a int from the buffer." alt="" coords="713,71,948,99"/>
+<area shape="rect" id="node49" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#ae07f6f515f1751af0ad3d7fa0fee6068" title="Deserialize the object from the buffer received from the network." alt="" coords="389,122,619,166"/>
+<area shape="rect" id="node61" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a67f79559ef3921f35ded7d239085d38e" title="Bind the interface with a parallel object (Broker&#45;side)" alt="" coords="369,1530,639,1558"/>
+<area shape="rect" id="node77" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#ac2f968609c2ff8241cd206fa54d999d5" title="Write a new debug information line in the file." alt="" coords="400,1581,608,1625"/>
+<area shape="rect" id="node79" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#ac12c6c8a16cd4f8078cd657491da799b" title="Format the POPAccessPoint to a string value." alt="" coords="389,1647,619,1691"/>
+<area shape="rect" id="node5" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a46fef1a8610d44c75f2c4d17280990c9" title="Retrieve a float from the buffer." alt="" coords="723,1055,939,1099"/>
+<area shape="rect" id="node7" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a6c6bed2fad6d7e04f5f9a40b3a24bd62" title="Retrieve a boolean from the buffer." alt="" coords="723,122,939,166"/>
+<area shape="rect" id="node9" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#aeb831832127976843dc5e8f52162fc73" title="Retrieve a string from the buffer." alt="" coords="723,189,939,233"/>
+<area shape="rect" id="node13" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a5193f795baeb33d86bc12e326df31ebe" title="Set the power OD by ODElement." alt="" coords="729,1122,932,1166"/>
+<area shape="rect" id="node15" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a32e89fd2267b9597b80d155e6cbf24d2" title="Set the memory OD by ODElement." alt="" coords="729,1189,932,1233"/>
+<area shape="rect" id="node17" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#afdd12881fa9fd05754ba62d28c6ef82f" title="Set the bandwidth OD by ODELement." alt="" coords="729,1255,932,1299"/>
+<area shape="rect" id="node19" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#aaa6fdbf738d439ad93d5a82c05fc6495" title="Set the walltime OD." alt="" coords="729,1322,932,1366"/>
+<area shape="rect" id="node21" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#ad60bbd728a74cc8f31742facc389e843" title="Set the manual OD." alt="" coords="729,1389,932,1433"/>
+<area shape="rect" id="node23" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a4bcdc8766750a318f6ae206f718c476e" title="Set the directory OD." alt="" coords="729,255,932,299"/>
+<area shape="rect" id="node25" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a8daa0524b9cf1035a10bf428fd3ddf68" title="Set the search OD values." alt="" coords="729,322,932,366"/>
+<area shape="rect" id="node27" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#aaa8a05a1b19248a679e46e3d0c480e49" title="Set the OD host name value." alt="" coords="729,389,932,433"/>
+<area shape="rect" id="node29" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a7562568b846cbae24c3bb64580465044" title="Set the OD host user value." alt="" coords="729,455,932,499"/>
+<area shape="rect" id="node31" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#ab5ba816e1dda23016f4da53b8c14935a" title="Set the OD host core value." alt="" coords="729,522,932,566"/>
+<area shape="rect" id="node33" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#af4e3844e5d754048ab5e74194e20d623" title="Set the OD host architecture value." alt="" coords="729,589,932,633"/>
+<area shape="rect" id="node35" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#af3dcfaaf66afcb1f6ee02ff162827392" title="Set the OD batch value." alt="" coords="729,655,932,699"/>
+<area shape="rect" id="node37" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a0c41fd0ca577688dce6f9b66992817cb" title="Set the OD JobUrl value." alt="" coords="729,722,932,766"/>
+<area shape="rect" id="node39" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#acacfd0e285c1fa1578d0b56e4a2828c5" title="Set the OD Code file value." alt="" coords="729,789,932,833"/>
+<area shape="rect" id="node41" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a86d1bf49771c2aaee1d9a68c3b785359" title="Set the OD platform value." alt="" coords="729,1455,932,1499"/>
+<area shape="rect" id="node43" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a3a67658b07bbc5239181f9a934339876" title="Set the OD protocol value." alt="" coords="729,855,932,899"/>
+<area shape="rect" id="node45" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#ac0b1743ac986f9c54d1981f9d1262b4e" title="Set the OD encoding value." alt="" coords="729,922,932,966"/>
+<area shape="rect" id="node47" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a6b991e7d926520ae71d3f2294dc67491" title="Set a specific attribute in the list." alt="" coords="729,989,932,1033"/>
+<area shape="rect" id="node52" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#a29465e155b3c616cec9db409b2aa02de" title="Add an access point by a formatted string." alt="" coords="716,5,945,49"/>
+<area shape="rect" id="node54" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a770d4f1f2332f5fc5c4dd149fbb3856d" title="Create an access point from a formatted string." alt="" coords="1028,5,1231,49"/>
+<area shape="rect" id="node56" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a4249544673f62780bc764e539e32f4f8" title="Create a new AccessPoint." alt="" coords="1287,5,1489,49"/>
+<area shape="rect" id="node63" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a12dfbc42a7cf07d40113958898de94ed" title="Throw an exception when the access point of an object is not available." alt="" coords="704,1757,957,1801"/>
+<area shape="rect" id="node67" href="$de/d31/classpopjava_1_1base_1_1_bind_status.html#abe41cc75da4eb92f6c674a9168f236f5" title="Get the code associated with this bind status." alt="" coords="705,1589,956,1617"/>
+<area shape="rect" id="node69" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a71556e04d30ef78674731a89ff6ee4e3" title="Return the object description associated with this interface." alt="" coords="689,1639,972,1667"/>
+<area shape="rect" id="node72" href="$de/d31/classpopjava_1_1base_1_1_bind_status.html#a87bbeb6395fb6b5843915863f285875a" title="Get the platform associated with this bind status." alt="" coords="723,1690,939,1734"/>
+<area shape="rect" id="node74" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a28531ddb7ee1a55efad3bf5466689636" title="Throw an exception when the object binding is not a success." alt="" coords="705,1522,956,1566"/>
+<area shape="rect" id="node65" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a2a44b5ea147ac6a2fa3421e69e0580ee" title="Create a new empty POPException." alt="" coords="1023,1639,1236,1683"/>
+</map>

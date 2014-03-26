@@ -1,0 +1,8 @@
+<map id="popjava.serviceadapter.POPObjectMonitor" name="popjava.serviceadapter.POPObjectMonitor">
+<area shape="rect" id="node13" href="$d5/db5/classpopjava_1_1serviceadapter_1_1_p_o_p_app_service.html" title="Partial POP&#45;Java class implementation to be used with the POP&#45;C++ runtime This class declares the nec..." alt="" coords="35,1494,269,1687"/>
+<area shape="rect" id="node2" href="$dd/d98/classpopjava_1_1serviceadapter_1_1_p_o_p_code_manager.html" title="Partial POP&#45;Java class implementation to be used with the POP&#45;C++ runtime This class declares the nec..." alt="" coords="29,1057,275,1218"/>
+<area shape="rect" id="node4" href="$d9/da5/classpopjava_1_1serviceadapter_1_1_p_o_p_remote_log.html" title="Partial POP&#45;Java class implementation to be used with the POP&#45;C++ runtime This class declares the nec..." alt="" coords="9,878,295,1007"/>
+<area shape="rect" id="node6" href="$da/d1e/classpopjava_1_1serviceadapter_1_1_p_o_p_service_base.html" title="Partial POP&#45;Java class implementation to be used with the POP&#45;C++ runtime This class declares the nec..." alt="" coords="5,683,299,829"/>
+<area shape="rect" id="node8" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html" title="This class is the base class of all POP&#45;Java parallel classes." alt="" coords="48,153,256,634"/>
+<area shape="rect" id="node10" href="$d8/d56/interfacepopjava_1_1dataswaper_1_1_i_p_o_p_base.html" title="This interface declare the needed method for the serialization and the deserialization of an object..." alt="" coords="40,6,264,103"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="popjava.combox.ComboxAllocateSocket.send" name="popjava.combox.ComboxAllocateSocket.send">
+<area shape="rect" id="node3" href="$df/d44/classpopjava_1_1combox_1_1_combox_socket.html#af67497fda9603f449a6f64112066d8fc" title="Send the buffer to the other side." alt="" coords="301,79,576,107"/>
+<area shape="rect" id="node5" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a774a883e9d6f6f524e1a4f14a1872bba" title="Pack the message header into the buffer." alt="" coords="624,5,851,49"/>
+<area shape="rect" id="node7" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#ac2f968609c2ff8241cd206fa54d999d5" title="Write a new debug information line in the file." alt="" coords="633,71,841,115"/>
+<area shape="rect" id="node9" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#a97c514ee6237e0212dc9cd2452524b94" title="Writes an exception to the same log as writeDebugInfo." alt="" coords="633,138,841,182"/>
+</map>

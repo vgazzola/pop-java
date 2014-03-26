@@ -1,0 +1,5 @@
+<map id="popjava.buffer.BufferXDR" name="popjava.buffer.BufferXDR">
+<area shape="rect" id="node2" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html" title="This class is a RAW implementation of the buffer abstract class." alt="" coords="27,894,219,1167"/>
+<area shape="rect" id="node4" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html" title="This abstract class defined all the required methods to implement a buffer." alt="" coords="27,585,219,842"/>
+<area shape="rect" id="node8" href="$d5/d25/classpopjava_1_1base_1_1_message_header.html" title="Message header is include in all communication between Interface and Broker side." alt="" coords="96,6,320,519"/>
+</map>

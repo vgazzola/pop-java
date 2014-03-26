@@ -1,0 +1,10 @@
+<map id="popjava.buffer.POPBuffer.setHeader" name="popjava.buffer.POPBuffer.setHeader">
+<area shape="rect" id="node3" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a147d1f54bf2c1b9694bdfa7d44b3b5f1" title="This method is responsible to handle the POP system call." alt="" coords="288,13,512,41"/>
+<area shape="rect" id="node7" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af11c36af52875f3bfb77fd0390f0f6d1" title="Entry point for the Broker." alt="" coords="297,63,503,91"/>
+<area shape="rect" id="node9" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a9a12d1efddb63496aeab60b9e24939ea" title="Send exception to the interface&#45;side." alt="" coords="297,114,503,158"/>
+<area shape="rect" id="node11" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a26c9ca11e866f9275a27a1b5c68bcba5" title="Check if the parallel object associated with this interface is still alive." alt="" coords="275,181,525,225"/>
+<area shape="rect" id="node13" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a6c25d39b2ef15832f91d5a7a28b5d4c7" title="Kill the associated parallel object." alt="" coords="271,247,529,275"/>
+<area shape="rect" id="node15" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a3c35f0855508878a5f2800132b4c81f3" title="Construct a parallel object." alt="" coords="288,298,512,342"/>
+<area shape="rect" id="node5" href="$db/df2/classpopjava_1_1combox_1_1_combox_receive_request_socket.html#a1bfd85a2e53b2d33ef4679e59c24080d" title="Start the thread." alt="" coords="580,5,825,49"/>
+<area shape="rect" id="node17" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#a848c6ac9d0900c3966a3680fbcd9ecc2" title="Create a new object from specific class and object description." alt="" coords="599,298,807,342"/>
+</map>

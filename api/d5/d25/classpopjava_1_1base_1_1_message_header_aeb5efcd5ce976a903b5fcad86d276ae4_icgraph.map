@@ -1,0 +1,10 @@
+<map id="popjava.base.MessageHeader.getExceptionCode" name="popjava.base.MessageHeader.getExceptionCode">
+<area shape="rect" id="node3" href="$d5/d25/classpopjava_1_1base_1_1_message_header.html#ade0cccc32e657c9a4f3850a47608eaa8" title="Format message header as a string value." alt="" coords="317,5,557,49"/>
+<area shape="rect" id="node5" href="$d0/d4c/classpopjava_1_1buffer_1_1_buffer_raw.html#acec3307d1acf8270dd13bb0312c01b0c" title="Pack the message header into the buffer." alt="" coords="324,71,551,115"/>
+<area shape="rect" id="node7" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a0bb9c7f286ef2626d36006ccd0c286a0" title="Receive response from the broker&#45;side." alt="" coords="304,138,571,182"/>
+<area shape="rect" id="node9" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a26c9ca11e866f9275a27a1b5c68bcba5" title="Check if the parallel object associated with this interface is still alive." alt="" coords="624,50,875,94"/>
+<area shape="rect" id="node11" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a6c25d39b2ef15832f91d5a7a28b5d4c7" title="Kill the associated parallel object." alt="" coords="620,117,879,145"/>
+<area shape="rect" id="node13" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#a3c35f0855508878a5f2800132b4c81f3" title="Construct a parallel object." alt="" coords="637,167,861,211"/>
+<area shape="rect" id="node17" href="$d1/d86/classpopjava_1_1_p_j_method_handler.html#aafb25fe0b03b9939e4155a147231f1f2" title="Invoke a method on an object." alt="" coords="628,234,871,262"/>
+<area shape="rect" id="node15" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#a848c6ac9d0900c3966a3680fbcd9ecc2" title="Create a new object from specific class and object description." alt="" coords="928,167,1136,211"/>
+</map>

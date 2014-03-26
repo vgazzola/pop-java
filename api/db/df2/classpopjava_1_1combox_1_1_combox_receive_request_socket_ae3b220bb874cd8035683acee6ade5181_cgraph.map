@@ -1,0 +1,20 @@
+<map id="popjava.combox.ComboxReceiveRequestSocket.receiveRequest" name="popjava.combox.ComboxReceiveRequestSocket.receiveRequest">
+<area shape="rect" id="node3" href="$df/d54/classpopjava_1_1combox_1_1_combox.html#ac6fe2242112244c8bc13afae09bbe64f" title="Get the associated buffer factory." alt="" coords="339,81,557,125"/>
+<area shape="rect" id="node5" href="$d5/d66/classpopjava_1_1buffer_1_1_buffer_factory.html#a927fbbcdac289a26038f95164768d307" title="Creates a new instance of BufferFactory." alt="" coords="319,147,577,191"/>
+<area shape="rect" id="node7" href="$df/d44/classpopjava_1_1combox_1_1_combox_socket.html#a02a70feafc467cdca7dd70a45b668e18" title="Receive buffer from the other side." alt="" coords="303,214,593,242"/>
+<area shape="rect" id="node23" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#af25b91dd6218c97e51cfe779dde04545" title="Retrieve the message header from the buffer." alt="" coords="660,357,903,401"/>
+<area shape="rect" id="node25" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#af1a58223739cd41ff6ae30220da008e2" title="Set an associated broker." alt="" coords="345,315,551,359"/>
+<area shape="rect" id="node28" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a39913c9cc8c5845373ab3a20f480554b" title="Set the class identifier of the current request." alt="" coords="345,382,551,426"/>
+<area shape="rect" id="node30" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#aba60d0ae7903e7585d93d93ca114689d" title="Set the method identifier of the current request." alt="" coords="345,449,551,493"/>
+<area shape="rect" id="node32" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#aa99482d465114b9a3eac99851f12f8c6" title="Set the semantic of the current request." alt="" coords="345,515,551,559"/>
+<area shape="rect" id="node34" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#ac736d8ea1a98d2b655defc912ecd2132" title="Set an associated buffer." alt="" coords="345,582,551,626"/>
+<area shape="rect" id="node36" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a5ce0a52fca91d2eada1749299a20e1f4" title="Get the combox which received the request." alt="" coords="345,649,551,693"/>
+<area shape="rect" id="node38" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#af707e7b981aa59fee4ecdbb7bca6258a" title="Set the associated combox." alt="" coords="345,715,551,759"/>
+<area shape="rect" id="node9" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a4ad99c8deb8261c596c37fedcd886561" title="Reset the buffer before reception of a new message." alt="" coords="668,5,895,49"/>
+<area shape="rect" id="node11" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#acad19b2dfcd76880d5340a5d7cfddda3" title="Get a integer value of the byte array." alt="" coords="673,71,889,115"/>
+<area shape="rect" id="node13" href="$df/d44/classpopjava_1_1combox_1_1_combox_socket.html#af40b1bc21a51e6ac54e50473bc020107" title="Close the connection." alt="" coords="643,138,920,166"/>
+<area shape="rect" id="node17" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#a2460410be8ec15959b466be06a86bbf8" title="Insert a int into the buffer." alt="" coords="664,189,899,217"/>
+<area shape="rect" id="node19" href="$dc/d62/classpopjava_1_1buffer_1_1_p_o_p_buffer.html#adc14e4b8f87c1e3eb745222b1149cafe" title="Insert a byte in the buffer." alt="" coords="673,239,889,267"/>
+<area shape="rect" id="node21" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#ac2f968609c2ff8241cd206fa54d999d5" title="Write a new debug information line in the file." alt="" coords="677,290,885,334"/>
+<area shape="rect" id="node15" href="$d1/d3a/classpopjava_1_1util_1_1_log_writer.html#a97c514ee6237e0212dc9cd2452524b94" title="Writes an exception to the same log as writeDebugInfo." alt="" coords="968,130,1176,174"/>
+</map>

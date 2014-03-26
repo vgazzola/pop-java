@@ -1,0 +1,8 @@
+<map id="popjava.buffer.BufferFactoryFinder.getInstance" name="popjava.buffer.BufferFactoryFinder.getInstance">
+<area shape="rect" id="node3" href="$d2/d00/classpopjava_1_1buffer_1_1_buffer_factory_finder.html#abb555d4b374a60267b89e52da1fc7034" title="Default constructor." alt="" coords="271,105,484,149"/>
+<area shape="rect" id="node5" href="$d8/d00/classpopjava_1_1buffer_1_1_buffer_raw_factory.html#a9dd22dd0e7c3b44988683c6c20c085c0" title="Get the identifier of this factory." alt="" coords="591,5,783,49"/>
+<area shape="rect" id="node7" href="$d6/d68/classpopjava_1_1buffer_1_1_buffer_x_d_r_factory.html#a3d2428819483043cab47b53a0495b508" title="Get the identifier of this buffer factory." alt="" coords="553,71,820,115"/>
+<area shape="rect" id="node9" href="$d2/dd2/classpopjava_1_1system_1_1_p_o_p_java_configuration.html#adebba745e11de46a8b9568e8bd8b5bb9" title="Retrieve the POP&#45;Java plugin location." alt="" coords="533,138,840,182"/>
+<area shape="rect" id="node11" href="$d2/d00/classpopjava_1_1buffer_1_1_buffer_factory_finder.html#ab453d209a38aa621f1e77b1cde7114d0" title="Read the plugin file." alt="" coords="580,205,793,249"/>
+<area shape="rect" id="node13" href="$d3/d6f/classpopjava_1_1system_1_1_x_m_l_worker.html#af8cb85ccf24671dbc09d113890946d89" title="Validate an XML file with an XML schema." alt="" coords="888,205,1109,249"/>
+</map>

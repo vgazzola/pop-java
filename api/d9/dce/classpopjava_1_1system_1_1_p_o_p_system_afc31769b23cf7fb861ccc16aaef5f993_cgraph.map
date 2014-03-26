@@ -1,0 +1,8 @@
+<map id="popjava.system.POPSystem.createAppCoreService" name="popjava.system.POPSystem.createAppCoreService">
+<area shape="rect" id="node3" href="$d9/dce/classpopjava_1_1system_1_1_p_o_p_system.html#ad27659f5d0b24d9b6b75f0ceadb5f879" title="Get the default object description." alt="" coords="313,5,548,49"/>
+<area shape="rect" id="node5" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#aaa8a05a1b19248a679e46e3d0c480e49" title="Set the OD host name value." alt="" coords="329,71,532,115"/>
+<area shape="rect" id="node7" href="$d9/dce/classpopjava_1_1system_1_1_p_o_p_system.html#ac053eb06fb18914649aef5164ae17e4a" title="Get the host of the local node." alt="" coords="313,138,548,182"/>
+<area shape="rect" id="node9" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#acacfd0e285c1fa1578d0b56e4a2828c5" title="Set the OD Code file value." alt="" coords="329,205,532,249"/>
+<area shape="rect" id="node11" href="$d0/d31/classpopjava_1_1_pop_java.html#a6cf9ea02dc61f69fc7b89f76cad86973" title="Static method used to create a new parallel object by passing an object description." alt="" coords="328,271,533,299"/>
+<area shape="rect" id="node13" href="$d5/d4f/classpopjava_1_1_p_j_proxy_factory.html#a692ee17d46394a4ce0257a1f3bbdf171" title="Create a new object from the factory." alt="" coords="597,263,805,307"/>
+</map>

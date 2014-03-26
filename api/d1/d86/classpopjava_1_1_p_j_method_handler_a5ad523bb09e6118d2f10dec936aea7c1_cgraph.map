@@ -1,0 +1,13 @@
+<map id="popjava.PJMethodHandler.bindObject" name="popjava.PJMethodHandler.bindObject">
+<area shape="rect" id="node3" href="$d6/df2/classpopjava_1_1baseobject_1_1_p_o_p_access_point.html#a29465e155b3c616cec9db409b2aa02de" title="Add an access point by a formatted string." alt="" coords="304,63,533,107"/>
+<area shape="rect" id="node9" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a67f79559ef3921f35ded7d239085d38e" title="Bind the interface with a parallel object (Broker&#45;side)" alt="" coords="284,189,553,217"/>
+<area shape="rect" id="node5" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a770d4f1f2332f5fc5c4dd149fbb3856d" title="Create an access point from a formatted string." alt="" coords="644,5,847,49"/>
+<area shape="rect" id="node7" href="$d7/d00/classpopjava_1_1baseobject_1_1_access_point.html#a4249544673f62780bc764e539e32f4f8" title="Create a new AccessPoint." alt="" coords="943,5,1145,49"/>
+<area shape="rect" id="node11" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a12dfbc42a7cf07d40113958898de94ed" title="Throw an exception when the access point of an object is not available." alt="" coords="619,71,872,115"/>
+<area shape="rect" id="node15" href="$de/d31/classpopjava_1_1base_1_1_bind_status.html#abe41cc75da4eb92f6c674a9168f236f5" title="Get the code associated with this bind status." alt="" coords="620,138,871,166"/>
+<area shape="rect" id="node17" href="$da/dc0/classpopjava_1_1interfacebase_1_1_interface.html#a71556e04d30ef78674731a89ff6ee4e3" title="Return the object description associated with this interface." alt="" coords="604,189,887,217"/>
+<area shape="rect" id="node19" href="$d7/dfc/classpopjava_1_1baseobject_1_1_object_description.html#a86d1bf49771c2aaee1d9a68c3b785359" title="Set the OD platform value." alt="" coords="644,239,847,283"/>
+<area shape="rect" id="node21" href="$de/d31/classpopjava_1_1base_1_1_bind_status.html#a87bbeb6395fb6b5843915863f285875a" title="Get the platform associated with this bind status." alt="" coords="637,306,853,350"/>
+<area shape="rect" id="node23" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a28531ddb7ee1a55efad3bf5466689636" title="Throw an exception when the object binding is not a success." alt="" coords="620,373,871,417"/>
+<area shape="rect" id="node13" href="$dc/df2/classpopjava_1_1base_1_1_p_o_p_exception.html#a2a44b5ea147ac6a2fa3421e69e0580ee" title="Create a new empty POPException." alt="" coords="937,222,1151,266"/>
+</map>

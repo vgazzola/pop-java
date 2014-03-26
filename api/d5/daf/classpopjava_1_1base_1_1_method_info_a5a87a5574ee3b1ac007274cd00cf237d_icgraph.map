@@ -1,0 +1,7 @@
+<map id="popjava.base.MethodInfo.getMethodId" name="popjava.base.MethodInfo.getMethodId">
+<area shape="rect" id="node3" href="$d5/daf/classpopjava_1_1base_1_1_method_info.html#a204a82cc5a3519cf9dc8951dfe6fb3fe" title="Check if if the given object is equals to this MethodInfo." alt="" coords="273,46,513,74"/>
+<area shape="rect" id="node9" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#ab4eee56a19eb226fe8e9a1f47dcda13d" title="Set an invocation semantic to a specific method." alt="" coords="285,97,501,141"/>
+<area shape="rect" id="node11" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#afd46e28033575ac247abfd90f08b2ac9" title="Print object information on the standard output." alt="" coords="283,163,504,207"/>
+<area shape="rect" id="node5" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#a91bacad784d8adf2619b49e1c396fcb0" title="Retrieve a specific method in the parallel class with some information." alt="" coords="563,5,776,49"/>
+<area shape="rect" id="node7" href="$df/d93/classpopjava_1_1base_1_1_p_o_p_object.html#ab0bd10860a4012082437631fc81d25d2" title="Retrieve a constructor by its informations." alt="" coords="563,71,776,115"/>
+</map>

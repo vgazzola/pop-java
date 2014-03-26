@@ -1,0 +1,7 @@
+<map id="popjava.broker.RequestQueue.remove" name="popjava.broker.RequestQueue.remove">
+<area shape="rect" id="node3" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a05239247c7d77c868022919b54b19821" title="Returns true if this request is a mutex request, false otherwise." alt="" coords="673,5,868,49"/>
+<area shape="rect" id="node7" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#ab645ea394cf4c44f0b878f2bd7b7c3b8" title="Returns true if this request is a sequential request, false otherwise." alt="" coords="383,63,577,107"/>
+<area shape="rect" id="node13" href="$d6/d98/classpopjava_1_1broker_1_1_request_queue.html#a0d00bcb1901071ed7f1a22e1f513b31f" title="Check if there is request to peek." alt="" coords="337,130,623,158"/>
+<area shape="rect" id="node5" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a34e3da3c97f6be3d3e137c9f34340be7" title="Get the semantic of the current request." alt="" coords="917,38,1125,82"/>
+<area shape="rect" id="node9" href="$d4/da6/classpopjava_1_1broker_1_1_request.html#a974c55ed952133f923edc490e06efe2d" title="Returns true if this request is a concurrent request, false otherwise." alt="" coords="673,71,868,115"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="popjava.broker.Broker.invoke" name="popjava.broker.Broker.invoke">
+<area shape="rect" id="node3" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af2527e3d1418e0c812b42d83a02b8153" title="This method is responsible to handle the broker&#45;side semantics for a request." alt="" coords="280,5,491,49"/>
+<area shape="rect" id="node9" href="$d5/d57/classpopjava_1_1broker_1_1_p_o_p_thread.html#ad1b2e07fb7de85bd66305d597bfb2aee" title="Launch the execution of the current POPThread." alt="" coords="272,71,499,99"/>
+<area shape="rect" id="node5" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a0239d325af8816f3f698c13442e6f058" title="Main loop of this broker." alt="" coords="547,5,752,49"/>
+<area shape="rect" id="node7" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af11c36af52875f3bfb77fd0390f0f6d1" title="Entry point for the Broker." alt="" coords="801,13,1007,41"/>
+</map>

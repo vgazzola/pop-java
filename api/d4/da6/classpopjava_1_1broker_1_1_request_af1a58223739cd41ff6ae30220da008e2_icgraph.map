@@ -1,0 +1,7 @@
+<map id="popjava.broker.Request.setBroker" name="popjava.broker.Request.setBroker">
+<area shape="rect" id="node3" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af2527e3d1418e0c812b42d83a02b8153" title="This method is responsible to handle the broker&#45;side semantics for a request." alt="" coords="277,5,488,49"/>
+<area shape="rect" id="node9" href="$db/df2/classpopjava_1_1combox_1_1_combox_receive_request_socket.html#ae3b220bb874cd8035683acee6ade5181" title="Get request from the buffer." alt="" coords="260,71,505,115"/>
+<area shape="rect" id="node5" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#a0239d325af8816f3f698c13442e6f058" title="Main loop of this broker." alt="" coords="576,5,781,49"/>
+<area shape="rect" id="node7" href="$d6/d93/classpopjava_1_1broker_1_1_broker.html#af11c36af52875f3bfb77fd0390f0f6d1" title="Entry point for the Broker." alt="" coords="852,13,1057,41"/>
+<area shape="rect" id="node11" href="$db/df2/classpopjava_1_1combox_1_1_combox_receive_request_socket.html#a1bfd85a2e53b2d33ef4679e59c24080d" title="Start the thread." alt="" coords="556,71,801,115"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="popjava.base.MethodInfo.equals" name="popjava.base.MethodInfo.equals">
+<area shape="rect" id="node3" href="$d5/daf/classpopjava_1_1base_1_1_method_info.html#a85dc06c57490cc46eb4a5a34ca1d5896" title="Create a new MethodInfo with the given values." alt="" coords="307,5,504,49"/>
+<area shape="rect" id="node5" href="$d5/daf/classpopjava_1_1base_1_1_method_info.html#a24a49bcdb37b7a0f8038d5563104baa5" title="Get the class unique identifier stored in this object." alt="" coords="296,71,515,115"/>
+<area shape="rect" id="node7" href="$d5/daf/classpopjava_1_1base_1_1_method_info.html#a5a87a5574ee3b1ac007274cd00cf237d" title="Get the method unique identifier stored in this object." alt="" coords="296,138,515,182"/>
+</map>
