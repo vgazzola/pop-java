@@ -1,0 +1,6 @@
+*.pyc
+
+/doc/html
+/doc/latex
+/doc/tags
+/docs/_build
