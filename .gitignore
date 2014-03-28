@@ -1,6 +1,4 @@
+.DS_Store
 *.pyc
-
-/doc/html
-/doc/latex
-/doc/tags
+/doxygen
 /docs/_build
