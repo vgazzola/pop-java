@@ -12,7 +12,11 @@ public @interface POPConfig {
 	public enum Type{
 		URL,
 		CONNECTION,
-		CONNECTION_PWD
+		CONNECTION_PWD,
+		INTEREST,
+		CONNECT_TO,
+		SEARCH_TIME,
+		SEARCH_DEPTH
 	}
 	
 	Type value();

@@ -39,6 +39,9 @@ public class ObjectDescription implements IPOPBase {
 	protected String cwd;
 	protected String batch;
 	
+	protected String interest;
+	protected int connectTo;
+	
 	protected String jvmParamters;
 	protected ConnectionType connectionType = ConnectionType.ANY;
 	protected String connectionSecret;
@@ -71,7 +74,8 @@ public class ObjectDescription implements IPOPBase {
 		bandwidthReq = -1;
 		memoryMin = -1;
 		memoryReq = -1;
-
+		interest = "";
+		connectTo = -1;
 	}
 	
 	/**
@@ -469,6 +473,22 @@ public class ObjectDescription implements IPOPBase {
 	public String getCodeFile() {
 		return codeFile;
 	}
+	
+	public void setInterest(String interest) {
+		this.interest = interest;
+	}
+	
+	public void setConnectTo(int connectTo) {
+		this.connectTo = connectTo;
+	}
+	
+	public String getInterest() {
+		return interest;
+	}
+
+	public int getConnectTo() {
+		return connectTo;
+	}
 
 	/**
 	 * Set a specific attribute in the list
@@ -519,7 +539,8 @@ public class ObjectDescription implements IPOPBase {
 				&& wallTime <= 0 && encoding.length() == 0
 				&& protocol.length() == 0 && platform.length() == 0
 				&& hostName.length() == 0 && jobUrl.length() == 0
-				&& codeFile.length() == 0)
+				&& codeFile.length() == 0
+				&& interest.length() == 0 && connectTo <= 0)
 			return true;
 		return false;
 	}
@@ -566,6 +587,8 @@ public class ObjectDescription implements IPOPBase {
 		String platform = buffer.getString();
 		String protocol = buffer.getString();
 		String encoding = buffer.getString();
+		String interest = buffer.getString();
+		int connectTo = buffer.getInt();
 		this.setPower(tmpPowerReq, tmpPowerMin);
 		this.setMemory(tmpMemoryReq, tmpMemoryMin);
 		this.setBandwidth(tmpBandwidthReq, tmpBandwidthMin);
@@ -583,6 +606,8 @@ public class ObjectDescription implements IPOPBase {
 		this.setPlatform(platform);
 		this.setProtocol(protocol);
 		this.setEncoding(encoding);
+		this.setInterest(interest);
+		this.setConnectTo(connectTo);
 
 		// put the attributes
 		this.attributes.clear();
@@ -625,6 +650,9 @@ public class ObjectDescription implements IPOPBase {
 		buffer.putString(platform);
 		buffer.putString(protocol);
 		buffer.putString(encoding);
+		
+		buffer.putString(interest);
+		buffer.putInt(connectTo);
 		// put the attributes
 		buffer.putInt(attributes.size());
 		Enumeration<String> keys = attributes.keys();
@@ -673,6 +701,10 @@ public class ObjectDescription implements IPOPBase {
 			maxSize = od.getSearchMaxSize();
 		if(od.getSearchWaitTime() >  0)
 			waitTime = od.getSearchWaitTime();
+		if (od.getInterest().length() > 0)
+			interest = od.getInterest();
+		if (od.getConnectTo() > 0)
+			connectTo = od.getConnectTo();
 	}
 
 	/**

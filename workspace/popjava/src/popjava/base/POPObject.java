@@ -24,6 +24,7 @@ import popjava.annotation.POPSyncSeq;
 import popjava.baseobject.ConnectionType;
 import popjava.baseobject.ObjectDescription;
 import popjava.baseobject.POPAccessPoint;
+import popjava.system.POPSystem;
 import popjava.broker.Broker;
 import popjava.buffer.POPBuffer;
 import popjava.dataswaper.IPOPBase;
@@ -59,6 +60,36 @@ public class POPObject implements IPOPBase {
 		loadClassAnnotations();
 		initializePOPObject();
 	}
+	/**
+	 * Called by the POP-Java runtime each time a discovery has been performed
+	 * and suitable computers have been found. Override it to choose with your
+	 * own criteria the remote computer you want to use.
+	 * <p>
+	 * The {@code machines} parameter contains one {@link POPSearchNodeInfo} for
+	 * each suitable computers. It will never be {@code null} or empty.
+	 * <p>
+	 * The method has to return
+	 * <ul>
+	 * <li>an item of {@code machines}
+	 * <li>{@code null} to abort the process. If so, the POP-Java runtime will
+	 * throw a {@link POPException}.
+	 * </ul>
+	 * <p>
+	 * By default, this method chooses the first item of {@code machines}.
+	 * <p>
+	 * Important remark: To be sure to get more than one suitable computer, you
+	 * should use the {@link POPConfig.Type#SEARCH_TIME} or
+	 * {@link POPObjectDescription#searchTime()} annotations. Otherwise, it
+	 * could happen that POP gives you only the first response it receives.
+	 *
+	 * @see POPObjectDescription#searchTime()
+	 * @see POPConfig.Type#SEARCH_TIME
+	 * @param machines the list of available computers
+	 * @return your choice, null to abort
+	 */
+	public static POPSearchNodeInfo popChooseRemote(List<POPSearchNodeInfo> machines) {
+		return machines.get(0);
+	}
 	
 	private Class<? extends POPObject> getRealClass(){
 		if(this instanceof ProxyObject){
@@ -87,18 +118,19 @@ public class POPObject implements IPOPBase {
 	 * Loads the OD from the specified constructor
 	 * @param constructor
 	 */
-	private void loadODAnnotations(Constructor<?> constructor){
+	private void loadODAnnotations(Constructor<?> constructor, ObjectDescription od){
 		POPObjectDescription objectDescription = constructor.getAnnotation(POPObjectDescription.class);
 		if(objectDescription != null){
 			od.setHostname(objectDescription.url());
 			od.setJVMParamters(objectDescription.jvmParameters());
 			od.setConnectionType(objectDescription.connection());
 			od.setConnectionSecret(objectDescription.connectionSecret());
+			od.setSearch(objectDescription.searchDepth(), od.getSearchMaxSize(), objectDescription.searchTime());
 			od.setEncoding(objectDescription.encoding().toString());
 		}
 	}
 	
-	private void loadParameterAnnotations(Constructor<?> constructor, Object ... argvs){
+	private void loadParameterAnnotations(Constructor<?> constructor, ObjectDescription od, Object ... argvs){
 		Annotation [][] annotations = constructor.getParameterAnnotations();
 		for(int i = 0; i < annotations.length; i++){
 			for(int loop = 0; loop < annotations[i].length; loop++){
@@ -118,6 +150,42 @@ public class POPObject implements IPOPBase {
 									" was not of type String for Annotation URL");
 						}
 						
+						break;
+					case INTEREST:
+						if (argvs[i] instanceof String) {
+							od.setInterest((String) argvs[i]);
+						} else {
+							throw new RuntimeException("Annotated paramater " + i + " in "
+									+ constructor.getClass().getName()
+									+ " was not of type String for Annotation INTEREST");
+						}
+						break;	
+					case CONNECT_TO:
+						if (argvs[i] instanceof Integer) {
+							od.setConnectTo((Integer) argvs[i]);
+						} else {
+							throw new RuntimeException("Annotated paramater " + i + " in "
+									+ constructor.getClass().getName()
+									+ " was not of type Integer for Annotation CONNECT_TO");
+						}
+						break;
+					case SEARCH_DEPTH:
+						if (argvs[i] instanceof Integer) {
+							od.setSearch((Integer) argvs[i], od.getSearchMaxSize(), od.getSearchWaitTime());
+						} else {
+							throw new RuntimeException("Annotated paramater " + i + " in "
+									+ constructor.getClass().getName()
+									+ " was not of type Integer for Annotation SEARCH_DEPTH");
+						}
+						break;
+					case SEARCH_TIME:
+						if (argvs[i] instanceof Integer) {
+							od.setSearch(od.getSearchMaxDepth(), od.getSearchMaxSize(), (Integer) argvs[i]);
+						} else {
+							throw new RuntimeException("Annotated paramater " + i + " in "
+									+ constructor.getClass().getName()
+									+ " was not of type Integer for Annotation SEARCH_TIME");
+						}
 						break;
 					case CONNECTION:
 						if(argvs[i] instanceof ConnectionType){
@@ -145,13 +213,13 @@ public class POPObject implements IPOPBase {
 	/**
 	 * Loads the OD from the annotated attributes
 	 */
-	private void loadDynamicOD(Constructor<?> constructor, Object ... argvs){
-		loadODAnnotations(constructor);
-		loadParameterAnnotations(constructor, argvs);
+	private void loadDynamicOD(Constructor<?> constructor,ObjectDescription od, Object ... argvs){
+		loadODAnnotations(constructor, od);
+		loadParameterAnnotations(constructor, od argvs);
 	}
 	
 	public void loadPOPAnnotations(Constructor<?> constructor, Object ... argvs){
-		loadDynamicOD(constructor, argvs);
+		loadDynamicOD(constructor, od, argvs);
 		loadMethodSemantics();
 	}
 	

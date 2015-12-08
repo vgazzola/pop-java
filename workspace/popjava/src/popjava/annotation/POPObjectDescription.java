@@ -14,6 +14,10 @@ public @interface POPObjectDescription {
 	public static final String LOCAL_DEBUG_URL = "localhost-debug";
 	
 	String url() default "";
+	String interest() default "";
+	int connectTo() default -1;
+	int searchTime() default -1;
+	int searchDepth() default -1;
 	
 	/**
 	 * JVM parameters to be used when creating this object
