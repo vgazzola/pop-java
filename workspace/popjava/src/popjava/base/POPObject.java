@@ -9,6 +9,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Enumeration;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.List;
 
 import javassist.util.proxy.ProxyObject;
 import popjava.PopJava;
@@ -28,6 +29,7 @@ import popjava.system.POPSystem;
 import popjava.broker.Broker;
 import popjava.buffer.POPBuffer;
 import popjava.dataswaper.IPOPBase;
+import popjava.dataswaper.POPSearchNodeInfo;
 import popjava.util.ClassUtil;
 /**
  * This class is the base class of all POP-Java parallel classes. Every POP-Java parallel classes must inherit from this one.
@@ -215,7 +217,7 @@ public class POPObject implements IPOPBase {
 	 */
 	private void loadDynamicOD(Constructor<?> constructor,ObjectDescription od, Object ... argvs){
 		loadODAnnotations(constructor, od);
-		loadParameterAnnotations(constructor, od argvs);
+		loadParameterAnnotations(constructor, od, argvs);
 	}
 	
 	public void loadPOPAnnotations(Constructor<?> constructor, Object ... argvs){
