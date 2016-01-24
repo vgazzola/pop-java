@@ -4,10 +4,14 @@ import popjava.annotation.POPAsyncConc;
 import popjava.annotation.POPAsyncSeq;
 import popjava.annotation.POPClass;
 import popjava.annotation.POPObjectDescription;
+import popjava.annotation.POPParameter;
 import popjava.annotation.POPSyncConc;
+import popjava.annotation.POPSyncMutex;
 import popjava.annotation.POPSyncSeq;
+import popjava.annotation.POPParameter.Direction;
 import popjava.baseobject.POPAccessPoint;
 import popjava.dataswaper.ObjectDescriptionInput;
+import popjava.dataswaper.POPSearchNodeInfos;
 import popjava.dataswaper.POPString;
 /**
  * Partial POP-Java class implementation to be used with the POP-C++ runtime
@@ -27,11 +31,6 @@ public class POPJobManager extends POPJobService {
 	 */
 	@POPObjectDescription(id = 10)
 	public POPJobManager() {
-		Class<?> c = POPJobManager.class;
-		defineConstructor(c,10);
-		defineConstructor(c,11,String.class,String.class);
-		//defineConstructor(c,12,String.class,String.class,String.class);
-
 	}
 
 	/**
@@ -116,12 +115,35 @@ public class POPJobManager extends POPJobService {
 		return true;
 	}
 
+
+	@POPSyncConc(id = 17)
+	public int findAvailableMachines(@POPParameter(Direction.IN)ObjectDescriptionInput od, @POPParameter(Direction.IN)String appId, 
+			@POPParameter(Direction.OUT)POPSearchNodeInfos machines, @POPParameter(Direction.OUT)String reqId) {
+		return -1;
+	}
+	@POPSyncMutex(id = 18)
+	public boolean addInterest(@POPParameter(Direction.IN) String id) {
+		return false;
+	}
+	@POPSyncMutex(id = 19)
+	public boolean removeInterest(@POPParameter(Direction.IN) String id) {
+		return false;
+	}
+	@POPSyncMutex(id = 20)
+	public boolean addFriendToInterest(@POPParameter(Direction.IN) String id, @POPParameter(Direction.IN) String ip) {
+		return false;
+	}
+	@POPSyncMutex(id = 21)
+	public boolean removeFriendFromInterest(@POPParameter(Direction.IN) String id, @POPParameter(Direction.IN) String ip) {
+		return false;
+	}
+	
 	/**
 	 * Ask the JobMgr service to cancel some reservation for parallel object
 	 * @param req		Reservation identifiers of the reservations to cancel
 	 * @param howmany	Number of reservations to cancel
 	 */
-	@POPAsyncSeq(id = 18)
+	@POPAsyncSeq(id = 23)
 	public void cancelReservation(int[] req, int howmany) {
 
 	}
@@ -135,7 +157,7 @@ public class POPJobManager extends POPJobService {
 	 * @param objcontacts	Output arguments - contacts to the objects created
 	 * @return	0 if the execution hasn't failed
 	 */
-	@POPSyncConc(id = 19)
+	@POPSyncConc(id = 24)
 	public int execObj(POPString objname, int howmany, int[] reserveIDs,
 			String localservice, POPAccessPoint[] objcontacts) {
 		return 0;
@@ -144,7 +166,7 @@ public class POPJobManager extends POPJobService {
 	/**
 	 * 
 	 */
-	@POPAsyncSeq(id = 20)
+	@POPAsyncSeq(id = 25)
 	public void dump() {
 
 	}
@@ -153,7 +175,7 @@ public class POPJobManager extends POPJobService {
 	 * Start the JobMgr service
 	 */
 	@Override
-	@POPSyncSeq(id = 21)
+	@POPSyncSeq(id = 26)
     public void start() {
 
 	}
@@ -161,7 +183,7 @@ public class POPJobManager extends POPJobService {
 	/**
 	 * Register the local JobMgr service to its known neighbors
 	 */
-	@POPAsyncSeq(id = 22)
+	@POPAsyncSeq(id = 27)
 	public void selfRegister() {
 
 	}

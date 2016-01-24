@@ -37,7 +37,7 @@ public class POPAccessPoint implements IPOPBase {
 		if (initialize) {
 			String localAddress = POPSystem.getHostIP();
 
-			String accessString = String.format("socket://%s://%s:0", ComboxSocketFactory.PROTOCOL, localAddress);
+			String accessString = String.format("%s://%s:0", ComboxSocketFactory.PROTOCOL, localAddress);
 			setAccessString(accessString);
 		}
 	}
@@ -111,12 +111,15 @@ public class POPAccessPoint implements IPOPBase {
 	 * @param accessString Formatted string to be added as an access point
 	 */
 	public void setAccessString(String accessString) {
+		
+		System.out.println("In POPAccessPoint.setAccessString: "+ accessString);
 		accessPoints.clear();
 		String[] accessStrings = accessString.split("[ \t\r\n]");
 		
 		for (String str : accessStrings) {
 			str = str.trim();
 			if (str.length() > 0) {
+				System.out.println("In POPAccessPoint.setAccessString: "+ str);
 				AccessPoint acessPoint = AccessPoint.create(str);
 				if (acessPoint != null){
 					accessPoints.add(acessPoint);

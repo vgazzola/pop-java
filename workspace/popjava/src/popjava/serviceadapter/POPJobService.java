@@ -2,8 +2,12 @@ package popjava.serviceadapter;
 
 import popjava.annotation.POPClass;
 import popjava.base.Semantic;
+import popjava.annotation.POPConfig;
 import popjava.annotation.POPObjectDescription;
+import popjava.annotation.POPParameter;
+import popjava.annotation.POPParameter.Direction;
 import popjava.annotation.POPSyncConc;
+import popjava.annotation.POPSyncMutex;
 import popjava.baseobject.POPAccessPoint;
 import popjava.dataswaper.ObjectDescriptionInput;
 import popjava.dataswaper.POPSearchNodeInfos;
@@ -20,14 +24,14 @@ public class POPJobService extends POPServiceBase {
 	 */
 	@POPObjectDescription(id = 10)
 	public POPJobService() {
-		Class<?> c = POPJobService.class;
-		defineMethod(c, "findAvailableMachines", 13, Semantic.CONCURRENT | Semantic.SYNCHRONOUS,
+		//Class<?> c = POPJobService.class;
+		/*defineMethod(c, "findAvailableMachines", 13, Semantic.CONCURRENT | Semantic.SYNCHRONOUS,
 				ObjectDescriptionInput.class, String.class, POPSearchNodeInfos.class, String.class);
 		defineMethod(c, "addInterest", 14, Semantic.MUTEX | Semantic.SYNCHRONOUS, String.class);
 		defineMethod(c, "removeInterest", 15, Semantic.MUTEX | Semantic.SYNCHRONOUS, String.class);
 		defineMethod(c, "addFriendToInterest", 16, Semantic.MUTEX | Semantic.SYNCHRONOUS, String.class, String.class);
 		defineMethod(c, "removeFriendFromInterest", 17, Semantic.MUTEX | Semantic.SYNCHRONOUS, String.class,
-				String.class);
+				String.class);/*/
 	}
 
 	/**
@@ -52,25 +56,6 @@ public class POPJobService extends POPServiceBase {
 	public int createObject(POPAccessPoint localservice, String objname,
 			ObjectDescriptionInput od, int howmany, POPAccessPoint[] objcontacts, int howmany2, POPAccessPoint[] remotejobcontacts) {
 		return 0;
-	}
-	public int findAvailableMachines(ObjectDescriptionInput od, String appId, POPSearchNodeInfos machines, String reqId) {
-		return -1;
-	}
-
-	public boolean addInterest(String id) {
-		return false;
-	}
-	
-	public boolean removeInterest(String id) {
-		return false;
-	}
-	
-	public boolean addFriendToInterest(String id, String ip) {
-		return false;
-	}
-	
-	public boolean removeFriendFromInterest(String id, String ip) {
-		return false;
 	}
 
 

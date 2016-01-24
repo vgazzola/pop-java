@@ -9,10 +9,11 @@ import popjava.serviceadapter.POPJobService;
 
 public class POPInterest {
 	
-	private static POPJobService getJobService() {
-		POPAccessPoint jobContact = new POPAccessPoint();
-		jobContact.setAccessString(String.format("%s:%d", POPSystem.getHostIP(), POPJobManager.DEFAULT_PORT));
-		return PopJava.newActive(POPJobService.class, jobContact);
+	private static POPJobManager getJobService() {
+		POPAccessPoint jobContact = new POPAccessPoint(true);
+		System.out.println(String.format("In POPInterest.getJobService: %s:%d", POPSystem.getHostIP(), POPJobManager.DEFAULT_PORT));
+		jobContact.setAccessString(String.format("Socket://%s:%d", POPSystem.getHostIP(), POPJobManager.DEFAULT_PORT));
+		return PopJava.newActive(POPJobManager.class, jobContact);
 	}
 	
 	private static String generateUniqueId() {
@@ -25,10 +26,13 @@ public class POPInterest {
 	}
 	
 	public static String addInterest(String id) {
-		POPJobService jobmgr = getJobService();
+		System.out.println("In POPInterest. addinterest id= "+id);
+		POPJobManager jobmgr = getJobService();
 		if (jobmgr.addInterest(id)) {
+			System.out.println("In POPInterest: I am in the If close...");
 			return id;
 		}
+		System.out.println("In POPInterest: I am out of the If close...");
 		return null;
 	}
 	
