@@ -38,6 +38,9 @@ public class ObjectDescriptionInput implements IPOPBaseInput {
 	protected String platform;
 	protected String protocol;
 
+
+	protected String												interest;
+	protected int													connectTo;
 	private java.util.concurrent.ConcurrentHashMap<String, String> attributes = new java.util.concurrent.ConcurrentHashMap<String, String>();
 
 	/**
@@ -63,6 +66,8 @@ public class ObjectDescriptionInput implements IPOPBaseInput {
 		bandwidthReq = -1;
 		memoryMin = -1;
 		memoryReq = -1;
+		interest = "";
+		connectTo = -1;
 	}
 
 	/**
@@ -95,6 +100,8 @@ public class ObjectDescriptionInput implements IPOPBaseInput {
 		searchMaxDepth = od.getSearchMaxDepth();
 		searchMaxReq =  od.getSearchMaxSize();
 		searchWaitingtime = od.getSearchWaitTime();
+		interest = od.getInterest();
+		connectTo = od.getConnectTo();
 	}
 
 	/**
@@ -287,7 +294,21 @@ public class ObjectDescriptionInput implements IPOPBaseInput {
 	public String getCodeFile() {
 		return codeFile;
 	}
-
+	public String getInterest() {
+		return interest;
+	}
+	
+	public void setInterest(String interest) {
+		this.interest = interest;
+	}
+	
+	public int getConnectTo() {
+		return connectTo;
+	}
+	
+	public void setConnectTo(int connectTo) {
+		this.connectTo = connectTo;
+	}
 	/**
 	 * Set a specific attribute in the list
 	 * @param key	Key for this attribute
@@ -396,6 +417,8 @@ public class ObjectDescriptionInput implements IPOPBaseInput {
 		buffer.putString(platform);
 		buffer.putString(protocol);
 		buffer.putString(encoding);
+		buffer.putString(interest);
+		buffer.putInt(connectTo);
 		// put the attributes
 		buffer.putInt(attributes.size());
 		Enumeration<String> keys = attributes.keys();
@@ -432,6 +455,12 @@ public class ObjectDescriptionInput implements IPOPBaseInput {
 			jobUrl = od.getJobUrl();
 		if (od.getCodeFile().length() > 0)
 			codeFile = od.getCodeFile();
+		if (od.getInterest().length() > 0) {
+			interest = od.getInterest();
+		}
+		if (od.getConnectTo() >= 0) {
+			connectTo = od.getConnectTo();
+		}
 	}
 	
 	/**

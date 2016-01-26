@@ -120,7 +120,7 @@ public class POPObject implements IPOPBase {
 	 * Loads the OD from the specified constructor
 	 * @param constructor
 	 */
-	private void loadODAnnotations(Constructor<?> constructor, ObjectDescription od){
+	private static void loadODAnnotations(Constructor<?> constructor, ObjectDescription od){
 		POPObjectDescription objectDescription = constructor.getAnnotation(POPObjectDescription.class);
 		if(objectDescription != null){
 			od.setHostname(objectDescription.url());
@@ -132,24 +132,26 @@ public class POPObject implements IPOPBase {
 		}
 	}
 	
-	private void loadParameterAnnotations(Constructor<?> constructor, ObjectDescription od, Object ... argvs){
+	private static void loadParameterAnnotations(Constructor<?> constructor, ObjectDescription od, Object ... argvs){
 		Annotation [][] annotations = constructor.getParameterAnnotations();
 		for(int i = 0; i < annotations.length; i++){
 			for(int loop = 0; loop < annotations[i].length; loop++){
 				if(annotations[i][loop].annotationType().equals(POPConfig.class)){
 					POPConfig config = (POPConfig)annotations[i][loop];
 					 
-					if(argvs[i] == null){
-						throw new InvalidParameterException("Annotated paramater "+i+" for "+getClassName()+" was is null");
+					if (argvs[i] == null) {
+						throw new RuntimeException("Annotated paramater " + i + " for "
+								+ constructor.getClass().getName() + " was is null");
 					}
 					
 					switch(config.value()){
 					case URL:
-						if(argvs[i] instanceof String){
-							od.setHostname((String)argvs[i]);
-						}else{
-							throw new InvalidParameterException("Annotated paramater "+i+" in "+getClassName()+
-									" was not of type String for Annotation URL");
+						if (argvs[i] instanceof String) {
+							od.setHostname((String) argvs[i]);
+						} else {
+							throw new RuntimeException("Annotated paramater " + i + " in "
+									+ constructor.getClass().getName()
+									+ " was not of type String for Annotation URL");
 						}
 						
 						break;
@@ -190,19 +192,21 @@ public class POPObject implements IPOPBase {
 						}
 						break;
 					case CONNECTION:
-						if(argvs[i] instanceof ConnectionType){
+						if (argvs[i] instanceof ConnectionType) {
 							od.setConnectionType((ConnectionType) argvs[i]);
-						}else{
-							throw new InvalidParameterException("Annotated paramater "+i+" in "+getClassName()+
-									" was not of type ConnectionType for Annotation CONNECTION");
+						} else {
+							throw new RuntimeException("Annotated paramater " + i + " in "
+									+ constructor.getClass().getName()
+									+ " was not of type ConnectionType for Annotation CONNECTION");
 						}
 						break;
 					case CONNECTION_PWD:
-						if(argvs[i] instanceof String){
-							od.setConnectionSecret((String)argvs[i]);
-						}else{
-							throw new InvalidParameterException("Annotated paramater "+i+" in "+getClassName()+
-									" was not of type String for Annotation CONNECTION_SECRET");
+						if (argvs[i] instanceof String) {
+							od.setConnectionSecret((String) argvs[i]);
+						} else {
+							throw new RuntimeException("Annotated paramater " + i + " in "
+									+ constructor.getClass().getName()
+									+ " was not of type String for Annotation CONNECTION_SECRET");
 						}
 						break;
 					}
@@ -215,7 +219,7 @@ public class POPObject implements IPOPBase {
 	/**
 	 * Loads the OD from the annotated attributes
 	 */
-	private void loadDynamicOD(Constructor<?> constructor,ObjectDescription od, Object ... argvs){
+	public static void loadDynamicOD(Constructor<?> constructor,ObjectDescription od, Object ... argvs){
 		loadODAnnotations(constructor, od);
 		loadParameterAnnotations(constructor, od, argvs);
 	}
