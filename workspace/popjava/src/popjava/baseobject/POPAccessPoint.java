@@ -112,14 +112,12 @@ public class POPAccessPoint implements IPOPBase {
 	 */
 	public void setAccessString(String accessString) {
 		
-		System.out.println("In POPAccessPoint.setAccessString: "+ accessString);
 		accessPoints.clear();
 		String[] accessStrings = accessString.split("[ \t\r\n]");
 		
 		for (String str : accessStrings) {
 			str = str.trim();
 			if (str.length() > 0) {
-				System.out.println("In POPAccessPoint.setAccessString: "+ str);
 				AccessPoint acessPoint = AccessPoint.create(str);
 				if (acessPoint != null){
 					accessPoints.add(acessPoint);

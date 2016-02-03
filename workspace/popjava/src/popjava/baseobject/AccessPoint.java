@@ -60,7 +60,6 @@ public class AccessPoint {
 	 * @return the new access point created from the string
 	 */
 	public static AccessPoint create(String accessString) {	    
-		System.out.println("In AccessPoint.create: "+accessString);
 		
 		accessString = accessString.trim();
 		String protocol = "";
@@ -72,7 +71,6 @@ public class AccessPoint {
 		for (int i = 0; i < args.length; i++) {
 			String tempString = args[i].trim();
 			if (tempString.length() > 0){
-				System.out.println("In AccessPoint.create Iteration: "+i+" tempString:"+ tempString + "  n value: "+n);
 				datas[n++] = tempString;
 			}
 		}

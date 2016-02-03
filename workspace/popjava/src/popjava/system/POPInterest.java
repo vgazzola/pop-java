@@ -10,8 +10,7 @@ import popjava.serviceadapter.POPJobService;
 public class POPInterest {
 	
 	private static POPJobManager getJobService() {
-		POPAccessPoint jobContact = new POPAccessPoint(true);
-		System.out.println(String.format("In POPInterest.getJobService: %s:%d", POPSystem.getHostIP(), POPJobManager.DEFAULT_PORT));
+		POPAccessPoint jobContact = new POPAccessPoint();
 		jobContact.setAccessString(String.format("Socket://%s:%d", POPSystem.getHostIP(), POPJobManager.DEFAULT_PORT));
 		return PopJava.newActive(POPJobManager.class, jobContact);
 	}
@@ -26,13 +25,10 @@ public class POPInterest {
 	}
 	
 	public static String addInterest(String id) {
-		System.out.println("In POPInterest. addinterest id= "+id);
 		POPJobManager jobmgr = getJobService();
 		if (jobmgr.addInterest(id)) {
-			System.out.println("In POPInterest: I am in the If close...");
 			return id;
 		}
-		System.out.println("In POPInterest: I am out of the If close...");
 		return null;
 	}
 	
